@@ -1,3 +1,5 @@
+# Mobile Specification
+
 Device : Poco X3 Pro<br>
 CodeName : Vayu<br>
 Variant : 6/128<br>
