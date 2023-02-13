@@ -9,7 +9,7 @@ Kernel : Stock<br>
 Gpu Version : OpenGL ES 3.2 V@0530 (Universal SystemRW by lebigmac)<br>
 
 Camera : MGC_8.1.101_A9_GV2b_ENG.apk (com.google.android.GoogleCameraEng)<br>
-Config : 22022<br>
+Config : 22022 (Attached)<br>
 
 Rooted With Magisk Delta Canary<br>
 Debloated with ADB AppControl + Hail
