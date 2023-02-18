@@ -9,8 +9,7 @@ Memory Extension : Disabled<br>
 Kernel : NoGravity 3.2.1 (Installed in system, not using app and module)<br>
 Gpu Version : OpenGL ES 3.2 V@0530 (Universal SystemRW by lebigmac)<br>
 
-Camera : MGC_8.1.101_A9_GV2b_ENG.apk (com.google.android.GoogleCameraEng)<br>
-Config : 22022 (Attached)<br>
+Camera : com.android.camera v4.3.003900.0
 
 Rooted With Magisk Delta Canary<br>
 Debloated with ADB AppControl + Hail
