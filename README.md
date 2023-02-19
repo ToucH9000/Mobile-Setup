@@ -9,7 +9,8 @@ Memory Extension : Disabled<br>
 Kernel : Stock<br>
 Gpu Version : OpenGL ES 3.2 V@0530 (Universal SystemRW by lebigmac)<br>
 
-Camera : com.android.camera v4.3.003900.0
+Camera : MGC_8.1.101_A9_GV2b_snap (org.codeaurora.snapcam)<br>
+Config : ForkBSGx3P-NFv55_MIUI
 
 Rooted With Magisk Delta Canary<br>
 Debloated with ADB AppControl + Hail
