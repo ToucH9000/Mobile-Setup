@@ -1,4 +1,4 @@
-7# Mobile Specification
+# Mobile Specification
 
 Device : Poco X3 Pro<br>
 CodeName : Vayu<br>
