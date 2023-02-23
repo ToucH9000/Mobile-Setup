@@ -15,9 +15,6 @@ com.xiaomi.cameratools
 Compass
 com.miui.compass
 
-Feedback
-com.miui.bugreport
-
 Files
 com.android.fileexplorer
 
@@ -49,6 +46,9 @@ com.mi.globalbrowser
 
 Email
 com.android.email
+
+Feedback
+com.miui.bugreport
 
 Health
 com.mi.health
