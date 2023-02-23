@@ -13,4 +13,4 @@ Camera : MGC_8.1.101_A9_GV2b_snap (org.codeaurora.snapcam)<br>
 Config : ForkBSGx3P-NFv55
 
 Rooted With Magisk Delta Canary<br>
-Debloated with ADB AppControl + Hail
+Debloated with Hail + Lucky Patcher
