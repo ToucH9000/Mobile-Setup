@@ -1,6 +1,6 @@
 # Mobile Specification
 
-Device : Poco X3 Pro<br>
+Device : [Poco X3 Pro](https://www.gsmarena.com/xiaomi_poco_x3_pro-10802.php)<br>
 CodeName : Vayu<br>
 Variant : 6/128<br>
 OS : [MIUI by xiaomi.eu 13.0.9](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_POCOX3Pro_V13.0.9.0.SJUMIXM_v13-12.zip/download)<br>
