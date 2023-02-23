@@ -1,5 +1,8 @@
 ---------- Disabled ----------
 
+Battery and performance
+com.miui.powerkeeper
+
 Bokeh
 com.miui.extraphoto
 
