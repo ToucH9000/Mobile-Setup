@@ -5,7 +5,7 @@ CodeName : Vayu<br>
 Variant : 6/128<br>
 OS : [LineageOS 19.1](https://download.lineageos.org/vayu)<br>
 
-Kernel : [KangarooX](https://www.pling.com/p/1707614)<br>
+Kernel : Stock<br>
 Gpu Version : [OpenGL ES 3.2 V@0530](https://dl.lybxlpsv.com/lybrom/addons/dl.php?f=sm8xxx_v@0530_twrp.zip) (Hint : [SystemRW](https://lebigmac.2ix.ch/download.php))<br>
 
 Camera : [MGC_8.1.101_A9_GV2b_snap](https://1-dontsharethislink.celsoazevedo.com/file/filesc/MGC_8.1.101_A9_GV2b_snap.apk)<br>
