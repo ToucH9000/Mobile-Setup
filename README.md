@@ -11,6 +11,5 @@ Gpu Version : Stock<br>
 
 Camera : [MGC_8.1.101_A9_GV2b_snap](https://1-dontsharethislink.celsoazevedo.com/file/filesc/MGC_8.1.101_A9_GV2b_snap.apk)<br>
 Config : [ForkBSGx3P-NFv55](https://github.com/BEASTover9000/Mobile-Specification/releases/tag/v55)<br>
-GApps : Nik (core)<br>
 
 Rooted With [Magisk Delta Canary](https://github.com/HuskyDG/magisk-files/blob/main/intro.md)
