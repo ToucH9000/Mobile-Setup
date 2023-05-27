@@ -7,7 +7,7 @@ OS : [LineageOS 19.1](https://download.lineageos.org/vayu)<br>
 Gapps : NikGApps (Core)<br>
 
 Kernel : [KangarooX](https://www.pling.com/p/1707614/) (Non St)<br>
-Gpu Version : [v@0530](https://dl.lybxlpsv.com/lybrom/addons/)<br>
+Gpu Version : [v@0530](https://dl.lybxlpsv.com/lybrom/addons/dl.php?f=sm8xxx_v@0530_twrp.zip)<br>
 
 Camera : [MGC_8.1.101_A9_GV2b_snap](https://1-dontsharethislink.celsoazevedo.com/file/filesc/MGC_8.1.101_A9_GV2b_snap.apk)<br>
 Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specification/releases/tag/v61)<br>
