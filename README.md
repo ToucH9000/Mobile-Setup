@@ -6,7 +6,7 @@ Variant : 6/128<br>
 OS : [LineageOS 19.1](https://download.lineageos.org/vayu)<br>
 Gapps : NikGApps (Core)<br>
 
-Kernel : [KangarooX r32](https://www.pling.com/p/1707614/) (Non ST , do.systemless=0)<br>
+Kernel : Stock
 Gpu Version : Stock
 
 Camera : [MGC_8.1.101_A9_GV2b_snap](https://1-dontsharethislink.celsoazevedo.com/file/filesc/MGC_8.1.101_A9_GV2b_snap.apk)<br>
