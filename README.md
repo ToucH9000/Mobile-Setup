@@ -20,5 +20,5 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU)
 
 # Play Integrity & Momo
 
-![Screenshot_20230906-205752_Google Play Store~2](https://github.com/ToucH9000/Mobile-Specification/assets/85633117/ee37aca0-6745-4661-a0f8-b3baaad302d1)<br>
+![Screenshot_20230906-205752_Google Play Store~2](https://github.com/ToucH9000/Mobile-Specification/assets/85633117/ee37aca0-6745-4661-a0f8-b3baaad302d1)<br><br>
 ![Screenshot_20230906-205128_Momo](https://github.com/ToucH9000/Mobile-Specification/assets/85633117/0a6875a9-0a99-4396-88c4-be0fe4958a8d)
