@@ -3,7 +3,7 @@
 Device : [POCO X3 Pro](https://www.gsmarena.com/xiaomi_poco_x3_pro-10802.php)<br>
 CodeName : Vayu<br>
 Variant : 6/128<br>
-OS : [LineageOS 19.1](https://download.lineageos.org/devices/vayu/builds)<br>
+OS : [LineageOS 19.1](https://download.lineageos.org/devices/vayu/builds) (Permanent)<br>
 Gapps : NikGApps (Core)<br>
 
 Kernel : [PerryRiceKSU](https://t.me/PerryTheKernelCL)<br>
