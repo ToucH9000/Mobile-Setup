@@ -1,1 +1,22 @@
+---------- Disabled ----------
 
+Android Keyboard (AOSP)
+com.android.inputmethod.latin
+
+AudioFX
+org.lineageos.audiofx
+
+Browser
+org.lineageos.jelly
+
+Camera
+com.android.camera2
+
+FM Radio
+com.caf.fmradio
+
+Google Assistant (1)
+com.android.hotwordenrollment.okgoogle
+
+Google Assistant (2)
+com.android.hotwordenrollment.xgoogle
