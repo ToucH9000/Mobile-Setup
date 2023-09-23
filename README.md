@@ -4,7 +4,7 @@ Device : [POCO X3 Pro](https://www.gsmarena.com/xiaomi_poco_x3_pro-10802.php)<br
 CodeName : Vayu<br>
 Variant : 6/128<br>
 OS : [LineageOS 19.1](https://download.lineageos.org/devices/vayu/builds) [Debloated](https://github.com/ToucH9000/Mobile-Specification/blob/main/Los19.1-Debloat) (Permanent)<br>
-Gapps : NikGApps (Core)<br>
+Gapps : NikGApps (Core) + [UGD](https://github.com/gloeyisk/universal-gms-doze)<br>
 
 Kernel : [PerryRiceKSU](https://t.me/PerryTheKernelCL)<br>
 Gpu Version : Stock
