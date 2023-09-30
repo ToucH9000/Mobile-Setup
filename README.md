@@ -3,11 +3,12 @@
 Device : [POCO X3 Pro](https://www.gsmarena.com/xiaomi_poco_x3_pro-10802.php)<br>
 CodeName : Vayu<br>
 Variant : 6/128<br>
-OS : [LineageOS 19.1](https://download.lineageos.org/devices/vayu/builds) [Debloated](https://github.com/ToucH9000/Mobile-Specification/blob/main/Los19.1-Debloat) (Permanent)<br>
-Gapps : NikGApps (Core)<br>
+Recovery : [Twrp v3.7.0](https://dl.twrp.me/vayu/twrp-3.7.0_12-0-vayu.img.html)<br>
+OS : [LineageOS 19.1](https://download.lineageos.org/devices/vayu/builds) [Debloated](https://github.com/ToucH9000/Mobile-Specification/blob/main/Los19.1-Debloat)<br>
+Firmware : [v13.0.9.0.SJUMIXM](https://xiaomifirmwareupdater.com/firmware/vayu/stable/V13.0.9.0.SJUMIXM/)<br>
+Gapps : [NikGApps SL - Core](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-SL/16-Jul-2023/NikGapps-core-arm64-12.1-20230716-signed.zip/download)<br>
 
-Kernel : [PerryRiceKSU](https://t.me/PerryTheKernelCL)<br>
-Gpu Version : Stock
+Gpu Version : Stock (v@0502)
 
 Camera : [MGC_8.1.101_A9_GV2b_snap](https://1-dontsharethislink.celsoazevedo.com/file/filesc/MGC_8.1.101_A9_GV2b_snap.apk)<br>
 Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specification/releases/tag/v61)<br>
