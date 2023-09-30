@@ -4,8 +4,9 @@ Device : [POCO X3 Pro](https://www.gsmarena.com/xiaomi_poco_x3_pro-10802.php)<br
 CodeName : Vayu<br>
 Variant : 6/128<br>
 Recovery : [Twrp v3.7.0](https://dl.twrp.me/vayu/twrp-3.7.0_12-0-vayu.img.html)<br>
-OS : [LineageOS 19.1](https://download.lineageos.org/devices/vayu/builds) [Debloated](https://github.com/ToucH9000/Mobile-Specification/blob/main/Los19.1-Debloat)<br>
 Firmware : [v13.0.9.0.SJUMIXM](https://xiaomifirmwareupdater.com/firmware/vayu/stable/V13.0.9.0.SJUMIXM/)<br>
+OS : [LineageOS 19.1](https://download.lineageos.org/devices/vayu/builds) [Debloated](https://github.com/ToucH9000/Mobile-Specification/blob/main/Los19.1-Debloat)<br>
+Kernel : [PerryRiceKSU](https://t.me/PerryTheKernelCL)<br>
 Gapps : [NikGApps SL - Core](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-SL/16-Jul-2023/NikGapps-core-arm64-12.1-20230716-signed.zip/download)<br>
 
 Gpu Version : Stock (v@0502)
