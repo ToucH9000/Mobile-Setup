@@ -20,7 +20,7 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU) (Goodbye Magisk)
 
 [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases) + [USNFvayuLOS](https://github.com/ToucH9000/USNFvayuLOS) + [Zygisk On KernelSU](https://github.com/Dr-TSNG/ZygiskOnKernelSU) v4-0.7.1 (96-f34de95-release)
 
-# Play Integrity & Momo & Native Test
+# Play Integrity : Momo : Native Test
 
 ![Screenshot_20230906-205752_Google Play Store~2](https://github.com/ToucH9000/Mobile-Specification/assets/85633117/ee37aca0-6745-4661-a0f8-b3baaad302d1)<br><br>
 ![Screenshot_20231021-133935_Momo~2](https://github.com/ToucH9000/Mobile-Specification/assets/85633117/278c03a1-6ef7-4fd8-8f38-55364b571b45)<br><br>
