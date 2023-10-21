@@ -18,7 +18,7 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU) (Goodbye Magisk)
 
 # KernelSU Setup
 
-[Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases) + [USNFvayuLOS](https://github.com/ToucH9000/USNFvayuLOS) + [Zygisk On KernelSU](https://github.com/Dr-TSNG/ZygiskOnKernelSU)
+[Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases) + [USNFvayuLOS](https://github.com/ToucH9000/USNFvayuLOS) + [Zygisk On KernelSU](https://github.com/Dr-TSNG/ZygiskOnKernelSU) + [LSPosed Canary](https://github.com/LSPosed/LSPosed/actions?query=event%3Apush)
 
 # Play Integrity : Momo : Native Test
 
