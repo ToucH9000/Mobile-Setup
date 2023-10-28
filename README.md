@@ -24,4 +24,4 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU) (Goodbye Magisk)
 
 ![Screenshot_20230906-205752_Google Play Store~2](https://github.com/ToucH9000/Mobile-Specification/assets/85633117/ee37aca0-6745-4661-a0f8-b3baaad302d1)<br><br>
 ![Screenshot_20231021-133935_Momo~2](https://github.com/ToucH9000/Mobile-Specification/assets/85633117/278c03a1-6ef7-4fd8-8f38-55364b571b45)<br><br>
-![Screenshot_20231021-134005_Native Test~2](https://github.com/ToucH9000/Mobile-Specification/assets/85633117/7fb87dd2-faaf-4017-8458-f6518bad947d)
+![Screenshot_20231028-110102_Native Test~2](https://github.com/ToucH9000/Mobile-Specification/assets/85633117/4f2049b0-1311-4bbb-b7b6-09c5dd3825ab)
