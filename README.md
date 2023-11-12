@@ -9,7 +9,7 @@ OS : [LineageOS 19.1](https://download.lineageos.org/devices/vayu/builds) [Deblo
 Kernel : [RectiliaKSU](https://t.me/clhex_blog)<br>
 Gapps : [NikGApps SL - Core](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-SL/)<br>
 
-Gpu Version : Stock (v@0502)
+Gpu Version : Stock (v@0502)<br>
 Browser : [Thorium](https://github.com/Alex313031/Thorium-Android)<br>
 WebView : [By LineageOS](https://www.apkmirror.com/apk/lineageos/android-system-webview-2/)<br>
 
