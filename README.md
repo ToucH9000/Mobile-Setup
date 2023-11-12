@@ -5,8 +5,8 @@ CodeName : Vayu<br>
 Variant : 6/128<br>
 Recovery : [Twrp v3.7.0](https://dl.twrp.me/vayu/twrp-3.7.0_12-0-vayu.img.html)<br>
 Firmware : [v13.0.9.0.SJUMIXM](https://xiaomifirmwareupdater.com/firmware/vayu/stable/V13.0.9.0.SJUMIXM/)<br>
-OS : [LineageOS 19.1](https://download.lineageos.org/devices/vayu/builds) [Debloated](https://github.com/ToucH9000/Mobile-Specification/blob/main/Los19.1-Debloat) (20231105)<br>
-Kernel : [RectiliaKSU](https://t.me/clhex_blog)<br>
+OS : [LineageOS 19.1](https://drive.google.com/file/d/18c-ezNr0LoxXy3CNQQxY62XLaoL5QYsI/view?usp=sharing) [Debloated](https://github.com/ToucH9000/Mobile-Specification/blob/main/Los19.1-Debloat) (20231105)<br>
+Kernel : [RectiliaKSU](https://t.me/clhex_blog) (Also Prefer [PerryRiceKSU](https://t.me/PerryTheKernelCL))<br>
 Gapps : [NikGApps SL - Core](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-SL/)<br>
 
 Gpu Version : Stock (v@0502)<br>
