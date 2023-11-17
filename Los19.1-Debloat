@@ -1,3 +1,7 @@
+---------- ADB ----------
+
+adb shell settings put secure show_rotation_suggestions 0
+
 ---------- Disabled ----------
 
 Android Keyboard (AOSP)
