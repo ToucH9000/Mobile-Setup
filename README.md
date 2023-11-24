@@ -28,7 +28,18 @@ Rooted With [Kitsune Mask](https://github.com/HuskyDG/magisk-files)
 ![Screenshot_20231124-150341_Play Integrity API Checker~2](https://github.com/ToucH9000/Mobile-Specification/assets/85633117/5fdc9f42-6eee-4025-9ead-88f0c4c1efe6)
 <br>
 <br>
+<br>
 ![Screenshot_20231124-145222_Native Test~2](https://github.com/ToucH9000/Mobile-Specification/assets/85633117/7e096fd3-379a-486b-b622-e94f816a6f32)
 <br>
 <br>
+<br>
 ![Screenshot_20231124-144602_Native Detector~2](https://github.com/ToucH9000/Mobile-Specification/assets/85633117/d96c32af-81de-49c9-a275-35a4cb68fa34)
+<br>
+<br>
+<br>
+![Screenshot_20231124-143421_MemoryDetector~2](https://github.com/ToucH9000/Mobile-Specification/assets/85633117/ee06edfe-bc59-4f12-b625-bb133f11a89c)
+<br>
+<br>
+<br>
+![momo](https://github.com/ToucH9000/Mobile-Specification/assets/85633117/91fcdb0a-6952-4346-b7e5-cb5a888dfe97)
+
