@@ -22,4 +22,4 @@ Rooted With [Kitsune Mask](https://github.com/HuskyDG/magisk-files)
 
 [PIFvayuLOS](https://github.com/ToucH9000/PIFvayuLOS) + [LSPosed Canary](https://github.com/LSPosed/LSPosed/actions?query=event%3Apush)
 
-![Screenshot_20231124-144602_Native Detector~2](https://github.com/ToucH9000/Mobile-Specification/assets/85633117/826b9acb-6521-4243-ac52-cf5739533430)
+![momo](https://github.com/ToucH9000/Mobile-Specification/assets/85633117/a66e89d8-04a6-48ec-a013-d22471d8f643)
