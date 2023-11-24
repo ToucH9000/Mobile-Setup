@@ -24,5 +24,6 @@ Rooted With [Kitsune Mask](https://github.com/HuskyDG/magisk-files)
 
 <details>
 <summary>Play Integrity</summary>
-![momo](https://github.com/ToucH9000/Mobile-Specification/assets/85633117/d49249e2-27d1-463b-8fde-fbdaf307974f)
+![momo](https://github.com/ToucH9000/Mobile-Specification/assets/85633117/377b1b13-3442-4e40-8804-9c707f5e9898)
+
 </details>
