@@ -22,10 +22,6 @@ Rooted With [Kitsune Mask](https://github.com/HuskyDG/magisk-files)
 
 [PIFvayuLOS](https://github.com/ToucH9000/PIFvayuLOS) + [LSPosed Canary](https://github.com/LSPosed/LSPosed/actions?query=event%3Apush)
 
-<details>
-  <summary>
-    Play Integrity
-  </summary>
-  ![Screenshot_20231124-145222_Native Test~2](https://github.com/ToucH9000/Mobile-Specification/assets/85633117/7bbdeeda-4b71-4e18-8340-dcd58e00cf94)
+# Play Integrity : Native Test : Native Check : Memory Detector : Momo
 
-</details>
+![Screenshot_20231124-150341_Play Integrity API Checker~2](https://github.com/ToucH9000/Mobile-Specification/assets/85633117/5fdc9f42-6eee-4025-9ead-88f0c4c1efe6)
