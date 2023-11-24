@@ -22,9 +22,8 @@ Rooted With [Kitsune Mask](https://github.com/HuskyDG/magisk-files)
 
 [PIFvayuLOS](https://github.com/ToucH9000/PIFvayuLOS) + [LSPosed Canary](https://github.com/LSPosed/LSPosed/actions?query=event%3Apush)
 
-<details>
+<details open>
 <summary>Play Integrity</summary>
-<br>
-  ![momo](https://github.com/ToucH9000/Mobile-Specification/assets/85633117/52311e02-9131-4ac7-9c0d-ed26989e4a1b)
+![momo](https://github.com/ToucH9000/Mobile-Specification/assets/85633117/103fa17e-91ec-4202-a6f7-029d96ae5aec)
 
 </details>
