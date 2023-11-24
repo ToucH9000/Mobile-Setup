@@ -20,6 +20,7 @@ Rooted With [Kitsune Mask](https://github.com/HuskyDG/magisk-files)
 
 # Kitsune Mask Setup
 
+Enabled : Zygisk + MagiskHide + Enforce SuList<br>
 [PIFvayuLOS](https://github.com/ToucH9000/PIFvayuLOS) + [LSPosed Canary](https://github.com/LSPosed/LSPosed/actions?query=event%3Apush)
 
 # Play Integrity : Native Test : Native Check : Memory Detector : Momo
