@@ -32,7 +32,7 @@ Modules : [PIFvayuLOS](https://github.com/ToucH9000/PIFvayuLOS) + [LSPosed Canar
 ![Screenshot_20231124-145222_Native Test~2](https://github.com/ToucH9000/Mobile-Specification/assets/85633117/7e096fd3-379a-486b-b622-e94f816a6f32)
 <br>
 <br>
-![Screenshot_20231124-144602_Native Detector~2](https://github.com/ToucH9000/Mobile-Specification/assets/85633117/d96c32af-81de-49c9-a275-35a4cb68fa34)
+![Screenshot_20231127-043727_Native Detector~2](https://github.com/ToucH9000/Mobile-Specification/assets/85633117/f004dfbd-13bf-4cbe-be68-94bbc0e94248)
 <br>
 <br>
 ![Screenshot_20231126-194503_Hunter~2](https://github.com/ToucH9000/Mobile-Specification/assets/85633117/9ee53a2c-3457-412d-82bd-921175e8ef36)
