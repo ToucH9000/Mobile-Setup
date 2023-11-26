@@ -23,7 +23,7 @@ Rooted With [Kitsune Mask R655F6129](https://github.com/HuskyDG/magisk-files/rel
 Enabled : Zygisk + MagiskHide + Enforce SuList<br>
 Modules : [PIFvayuLOS](https://github.com/ToucH9000/PIFvayuLOS) + [LSPosed Canary](https://github.com/LSPosed/LSPosed/actions?query=event%3Apush)
 
-# Play Integrity : Native Test : Native Check : Memory Detector : Momo
+# Play Integrity : Native Test : Native Check : Hunter : Memory Detector : Momo
 
 
 ![Screenshot_20231124-150341_Play Integrity API Checker~2](https://github.com/ToucH9000/Mobile-Specification/assets/85633117/5fdc9f42-6eee-4025-9ead-88f0c4c1efe6)
@@ -33,6 +33,9 @@ Modules : [PIFvayuLOS](https://github.com/ToucH9000/PIFvayuLOS) + [LSPosed Canar
 <br>
 <br>
 ![Screenshot_20231124-144602_Native Detector~2](https://github.com/ToucH9000/Mobile-Specification/assets/85633117/d96c32af-81de-49c9-a275-35a4cb68fa34)
+<br>
+<br>
+![Screenshot_20231126-194503_Hunter~2](https://github.com/ToucH9000/Mobile-Specification/assets/85633117/9ee53a2c-3457-412d-82bd-921175e8ef36)
 <br>
 <br>
 ![Screenshot_20231124-143421_MemoryDetector~2](https://github.com/ToucH9000/Mobile-Specification/assets/85633117/ee06edfe-bc59-4f12-b625-bb133f11a89c)
