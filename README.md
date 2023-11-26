@@ -16,7 +16,7 @@ WebView : [By LineageOS](https://www.apkmirror.com/apk/lineageos/android-system-
 Camera : [MGC_8.1.101_A9_GV2b_snap](https://1-dontsharethislink.celsoazevedo.com/file/filesc/MGC_8.1.101_A9_GV2b_snap.apk)<br>
 Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specification/releases/tag/v61)<br>
 
-Rooted With [Kitsune Mask](https://github.com/HuskyDG/magisk-files) (R655F6129 - 26401)
+Rooted With [Kitsune Mask R655F6129](https://github.com/HuskyDG/magisk-files/releases/tag/R655F6129-kitsune) (26401)
 
 # Kitsune Mask Setup
 
