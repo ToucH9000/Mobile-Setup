@@ -29,22 +29,22 @@ Modules : [PIFvayuLOS](https://github.com/ToucH9000/PIFvayuLOS) + [LSPosed Canar
   <summary>Play Integrity</summary>
 <br>
   
-![Play%20Integrity.png](./Media/Play%20Integrity.png)
+![Play%20Integrity](./Media/Play%20Integrity.png)
 </details>
 <details>
   <summary>Native Test</summary>
 <br>
   
-![Native%20Test.png](./Media/Native%20Test.png)
+![Native%20Test](./Media/Native%20Test.png)
 </details>
 <details>
   <summary>Native Check</summary>
 <br>
   
-![Native%20Check.png](./Media/Native%20Check.png)
+![Native%20Check](./Media/Native%20Check.png)
 </details>
 <details>
-  <summary>Native Check</summary>
+  <summary>Hunter</summary>
 <br>
   
 ![Hunter](./Media/Hunter.png)
