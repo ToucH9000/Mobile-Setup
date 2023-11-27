@@ -49,10 +49,15 @@ Modules : [PIFvayuLOS](https://github.com/ToucH9000/PIFvayuLOS) + [LSPosed Canar
   
 ![Hunter](./Media/Hunter.png)
 </details>
-![Screenshot_20231126-194503_Hunter~2](https://github.com/ToucH9000/Mobile-Specification/assets/85633117/9ee53a2c-3457-412d-82bd-921175e8ef36)
+<details>
+  <summary>Hunter</summary>
 <br>
+  
+![Memory%20Detector](./Media/Memory%20Detector.png)
+</details>
+<details>
+  <summary>Momo</summary>
 <br>
-![Screenshot_20231124-143421_MemoryDetector~2](https://github.com/ToucH9000/Mobile-Specification/assets/85633117/ee06edfe-bc59-4f12-b625-bb133f11a89c)
-<br>
-<br>
-![momo](https://github.com/ToucH9000/Mobile-Specification/assets/85633117/91fcdb0a-6952-4346-b7e5-cb5a888dfe97)
+  
+![Momo](./Media/Momo.png)
+</details>
