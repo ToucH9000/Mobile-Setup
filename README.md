@@ -50,7 +50,7 @@ Modules : [PIFvayuLOS](https://github.com/ToucH9000/PIFvayuLOS) + [LSPosed Canar
 ![Hunter](./Media/Hunter.png)
 </details>
 <details>
-  <summary>Hunter</summary>
+  <summary>Memory Detector</summary>
 <br>
   
 ![Memory%20Detector](./Media/Memory%20Detector.png)
