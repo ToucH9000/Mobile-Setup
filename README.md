@@ -32,7 +32,6 @@ Modules : [PIFvayuLOS](https://github.com/ToucH9000/PIFvayuLOS) + [LSPosed Canar
 ![Play%20Integrity.png](./Media/Play%20Integrity.png)
 </details>
 <br>
-<br>
 <details>
   <summary>Native Testy</summary>
 <br>
