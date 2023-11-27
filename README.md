@@ -26,10 +26,16 @@ Modules : [PIFvayuLOS](https://github.com/ToucH9000/PIFvayuLOS) + [LSPosed Canar
 # Detections
 
 <details>
-  <summary>Play Integrity</summary>
+  <summary>Momo</summary>
 <br>
   
-![Play%20Integrity](./Media/Play%20Integrity.png)
+![Momo](./Media/Momo.png)
+</details>
+<details>
+  <summary>Hunter</summary>
+<br>
+  
+![Hunter](./Media/Hunter.png)
 </details>
 <details>
   <summary>Native Test</summary>
@@ -44,20 +50,14 @@ Modules : [PIFvayuLOS](https://github.com/ToucH9000/PIFvayuLOS) + [LSPosed Canar
 ![Native%20Check](./Media/Native%20Check.png)
 </details>
 <details>
-  <summary>Hunter</summary>
+  <summary>Play Integrity</summary>
 <br>
   
-![Hunter](./Media/Hunter.png)
+![Play%20Integrity](./Media/Play%20Integrity.png)
 </details>
 <details>
   <summary>Memory Detector</summary>
 <br>
   
 ![Memory%20Detector](./Media/Memory%20Detector.png)
-</details>
-<details>
-  <summary>Momo</summary>
-<br>
-  
-![Momo](./Media/Momo.png)
 </details>
