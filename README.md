@@ -29,7 +29,7 @@ Modules : [PIFvayuLOS](https://github.com/ToucH9000/PIFvayuLOS) + [LSPosed Canar
   <summary>Play Integrity</summary>
 <br>
   
-![Play%20Integrity.png](https://github.com/ToucH9000/Mobile-Specification/blob/main/Media/Play%20Integrity.png)
+![Play%20Integrity.png](./Media/Play%20Integrity.png)
 </details>
 <br>
 <br>
