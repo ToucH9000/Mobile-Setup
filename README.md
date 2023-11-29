@@ -50,12 +50,6 @@ Modules : [PIFvayuLOS](https://github.com/ToucH9000/PIFvayuLOS) + [LSPosed Canar
 ![Native%20Check](./Media/Native%20Check.png)
 </details>
 <details>
-  <summary>Play Integrity</summary>
-<br>
-  
-![Play%20Integrity](./Media/Play%20Integrity.png)
-</details>
-<details>
   <summary>Memory Detector</summary>
 <br>
   
