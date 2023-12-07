@@ -47,7 +47,7 @@ Modules : [PIFvayuLOS](https://github.com/ToucH9000/PIFvayuLOS) + [LSPosed Canar
   <summary>Native Check</summary>
 <br>
   
-![Native%20Check](./Media/Native%20Check.png)
+![Native%20Check](./Media/)
 </details>
 <details>
   <summary>Memory Detector</summary>
