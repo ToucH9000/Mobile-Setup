@@ -21,7 +21,7 @@ Rooted With [Kitsune Mask R655F6129](https://github.com/HuskyDG/magisk-files/rel
 # Kitsune Mask Setup
 
 Enabled : Zygisk + MagiskHide + Enforce SuList<br>
-Modules : [PIFvayuLOS](https://github.com/ToucH9000/PIFvayuLOS) + [LSPosed Canary](https://github.com/LSPosed/LSPosed/actions?query=event%3Apush)
+Modules : [PIFvayuLOS](https://github.com/ToucH9000/PIFvayuLOS) + [LSPosed Canary](https://github.com/LSPosed/LSPosed/actions?query=event%3Apush) + [magic_proc_monitor](https://github.com/HuskyDG/magic_proc_monitor)
 
 # Detections
 
@@ -36,6 +36,12 @@ Modules : [PIFvayuLOS](https://github.com/ToucH9000/PIFvayuLOS) + [LSPosed Canar
 <br>
   
 ![Hunter](./Media/Hunter.png)
+</details>
+<details>
+  <summary>Checker</summary>
+<br>
+  
+![Hunter](./Media/Checker.png)
 </details>
 <details>
   <summary>Native Test</summary>
