@@ -26,12 +26,6 @@ Modules : [PIFvayuLOS](https://github.com/ToucH9000/PIFvayuLOS) + [LSPosed Canar
 # Detections
 
 <details>
-  <summary>Momo</summary>
-<br>
-  
-![Momo](./Media/Momo.png)
-</details>
-<details>
   <summary>Hunter</summary>
 <br>
   
