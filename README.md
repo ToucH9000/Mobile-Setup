@@ -53,5 +53,5 @@ Modules : [PIFvayuLOS](https://github.com/ToucH9000/PIFvayuLOS) + [LSPosed Canar
   <summary>Memory Detector</summary>
 <br>
   
-![Memory%20Detector](./Media/Memory%20Detector.png)
+![Memory%20Detector](./Media/Memory%20Detector.jpg)
 </details>
