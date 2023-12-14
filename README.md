@@ -10,7 +10,7 @@ Kernel : [Rectilia](https://www.pling.com/p/2105921/)<br>
 Gapps : [NikGApps SL - Core](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-SL/)<br>
 
 Gpu Version : Stock (v@0502)<br>
-Browser : [Thorium](https://github.com/Alex313031/Thorium-Android)<br>
+Browser : [Kiwi](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)<br>
 WebView : [By LineageOS](https://www.apkmirror.com/apk/lineageos/android-system-webview-2/)<br>
 
 Camera : [MGC_8.1.101_A9_GV2b_snap](https://1-dontsharethislink.celsoazevedo.com/file/filesc/MGC_8.1.101_A9_GV2b_snap.apk)<br>
@@ -21,7 +21,7 @@ Rooted With [Kitsune Mask R655F6129](https://github.com/HuskyDG/magisk-files/rel
 # Kitsune Mask Setup
 
 Enabled : Zygisk + MagiskHide + Enforce SuList<br>
-Modules : [PIFvayuLOS](https://github.com/ToucH9000/PIFvayuLOS) + [LSPosed Canary](https://github.com/LSPosed/LSPosed/actions?query=event%3Apush) + [magic_proc_monitor](https://github.com/HuskyDG/magic_proc_monitor) (zygisk) + [REVANCEDinjectYT](https://t.me/PixelProps/158)
+Modules : [PIFvayuLOS](https://github.com/ToucH9000/PIFvayuLOS) + [LSPosed Canary](https://github.com/LSPosed/LSPosed/actions?query=event%3Apush)
 
 # Detections
 
