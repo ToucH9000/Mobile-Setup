@@ -34,23 +34,23 @@ Modules : [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases) + [Zy
   <summary>Checker</summary>
 <br>
   
-![Hunter](./Media/Checker.png)
+![Checker](./edia/Checker.png)
 </details>
 <details>
   <summary>Native Test</summary>
 <br>
   
-![Native%20Test](./Media/Native%20Test.png)
+![Native%20Test](./edia/Native%20Test.png)
 </details>
 <details>
   <summary>Native Check</summary>
 <br>
   
-![Native%20Check](./Media/Native%20Check.png)
+![Native%20Check](./edia/Native%20Check.png)
 </details>
 <details>
   <summary>Memory Detector</summary>
 <br>
   
-![Memory%20Detector](./Media/Memory%20Detector.jpg)
+![Memory%20Detector](./Nedia/Memory%20Detector.jpg)
 </details>
