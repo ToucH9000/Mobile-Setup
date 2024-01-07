@@ -6,8 +6,8 @@ Variant : 6/128<br>
 Recovery : [Twrp v3.7.0](https://dl.twrp.me/vayu/twrp-3.7.0_12-0-vayu.img.html)<br>
 Firmware : [v13.0.9.0.SJUMIXM](https://xiaomifirmwareupdater.com/firmware/vayu/stable/V13.0.9.0.SJUMIXM/)<br>
 OS : [LineageOS 19.1](https://drive.google.com/file/d/18c-ezNr0LoxXy3CNQQxY62XLaoL5QYsI/view?usp=sharing) [Debloated](./Docs/Los19.1-Debloat) (20231105) [I will permanently move to HyperOS by xiaomi.eu]<br>
-Kernel : [Rectilia](https://www.pling.com/p/2105921/)<br>
-Gapps : [NikGApps SL - Core](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-SL/)<br>
+Kernel : [PerryRiceKSU](https://t.me/PerryTheKernelCL)<br>
+Gapps : [NikGApps U - Core](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-U/)<br>
 
 Gpu Version : Stock (v@0502)<br>
 Browser : [Kiwi](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)<br>
@@ -16,12 +16,11 @@ WebView : [By LineageOS](https://www.apkmirror.com/apk/lineageos/android-system-
 Camera : [MGC_8.1.101_A9_GV2b_snap](https://1-dontsharethislink.celsoazevedo.com/file/filesc/MGC_8.1.101_A9_GV2b_snap.apk)<br>
 Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specification/releases/tag/v61)<br>
 
-Rooted With [Kitsune Mask R655F6129](https://github.com/HuskyDG/magisk-files/releases/tag/R655F6129-kitsune) (26401)
+Rooted With [KernelSU](https://github.com/tiann/KernelSU)
 
-# Kitsune Mask Setup
+# KernelSU Setup
 
-Enabled : Zygisk + MagiskHide + Enforce SuList<br>
-Modules : [PIFvayuLOS](https://github.com/ToucH9000/PIFvayuLOS) + [zygisk-detach](https://github.com/j-hc/zygisk-detach) + [LSPosed Canary](https://github.com/LSPosed/LSPosed/actions?query=event%3Apush)
+Modules : [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases) + [Zygisk-NEXT](https://github.com/Dr-TSNG/ZygiskNext) + [zygisk-detach](https://github.com/j-hc/zygisk-detach) + [LSPosed Canary](https://github.com/LSPosed/LSPosed/actions?query=event%3Apush)
 
 # Detections
 
