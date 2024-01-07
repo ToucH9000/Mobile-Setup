@@ -4,7 +4,7 @@ Device : [POCO X3 Pro](https://www.gsmarena.com/xiaomi_poco_x3_pro-10802.php)<br
 CodeName : Vayu<br>
 Variant : 6/128<br>
 Recovery : [Twrp v3.7.0](https://dl.twrp.me/vayu/twrp-3.7.0_12-0-vayu.img.html)<br>
-Firmware : [v13.0.9.0.SJUMIXM](https://xiaomifirmwareupdater.com/firmware/vayu/stable/V13.0.9.0.SJUMIXM/)<br>
+Firmware : [V14.0.3.0.TJUMIXM](https://xiaomifirmwareupdater.com/firmware/vayu/stable/V14.0.3.0.TJUMIXM/)<br>
 OS : [crDroid 10](https://crdroid.net/vayu/10)<br>
 Kernel : [PerryRiceKSU](https://t.me/PerryTheKernelCL)<br>
 Gapps : [NikGApps U - Core](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-U/)<br>
