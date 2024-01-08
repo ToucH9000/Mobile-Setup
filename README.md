@@ -52,5 +52,5 @@ Modules : [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases) + [Zy
   <summary>Memory Detector</summary>
 <br>
   
-![Memory%20Detector](./Media/Memory%20Detector.jpg)
+![Memory%20Detector](./Media/Memory%20Detector.png)
 </details>
