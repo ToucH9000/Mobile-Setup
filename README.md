@@ -9,7 +9,7 @@ OS : [crDroid 10](https://sourceforge.net/projects/crdroid/files/vayu/10.x/)<br>
 Kernel : [RectiliaKSU](https://www.pling.com/p/2105921/) OR [PerryRiceKSU](https://t.me/PerryTheKernelCL)<br>
 Gapps : [NikGApps U - Core](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-U/)<br>
 
-Gpu Version : [v@0530-TWRP](https://dl.lybxlpsv.com/lybrom/addons/dl.php?f=sm8xxx_v@0530_twrp.zip)<br>
+Gpu Version : [v@0530-TWRP](https://dl.lybxlpsv.com/lybrom/addons/dl.php?f=sm8xxx_v@0530_twrp.zip) - [Why 530?](https://dl.lybxlpsv.com/lybrom/addons/)<br>
 Browser : [Kiwi](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)<br>
 WebView : [By LineageOS](https://www.apkmirror.com/apk/lineageos/android-system-webview-2/)<br>
 
