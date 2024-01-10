@@ -6,7 +6,7 @@ Variant : 6/128<br>
 Recovery : [OrangeFox](https://orangefox.download/device/vayu)<br>
 Firmware : [v14.0.3.0.TJUMIXM](https://xiaomifirmwareupdater.com/firmware/vayu/stable/V14.0.3.0.TJUMIXM/)<br>
 OS : [crDroid 10](https://sourceforge.net/projects/crdroid/files/vayu/10.x/)<br>
-Kernel : [RectiliaKSU](https://www.pling.com/p/2105921/) OR [PerryRiceKSU](https://t.me/PerryTheKernelCL)<br>
+Kernel : [RectiliaKSU](https://www.pling.com/p/2105921/)<br>
 Gapps : [NikGApps U - Core](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-U/)<br>
 
 Gpu Version : [v@0530-TWRP](https://dl.lybxlpsv.com/lybrom/addons/dl.php?f=sm8xxx_v@0530_twrp.zip) - [Why 530?](https://dl.lybxlpsv.com/lybrom/addons/)<br>
