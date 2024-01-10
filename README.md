@@ -24,6 +24,8 @@ Modules : [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases) + [Zy
 
 # Detections
 
+**Some detections are comman and can't be bypassed, this doesn't mean you can polute the modding environment by crying to a developer to fix detection**
+
 <details>
   <summary>Hunter</summary>
 <br>
