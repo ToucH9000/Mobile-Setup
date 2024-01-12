@@ -20,7 +20,7 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU)
 
 # KernelSU Setup
 
-Modules : [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases) + [Zygisk-NEXT](https://github.com/Dr-TSNG/ZygiskNext) + [zygisk-detach](https://github.com/j-hc/zygisk-detach) + [LSPosed Canary](https://github.com/LSPosed/LSPosed/actions?query=event%3Apush)
+Modules : [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases) + [Zygisk-NEXT](https://github.com/Dr-TSNG/ZygiskNext) + [zygisk-detach](https://github.com/j-hc/zygisk-detach) + [LSPosed Canary](https://github.com/CMDQ8575/LSPosed/actions)
 
 # Detections
 
