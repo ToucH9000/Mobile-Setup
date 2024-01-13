@@ -42,13 +42,13 @@ Modules : [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases) + [Zy
   <summary>Native Test</summary>
 <br>
   
-![Native%20Test](./Media/Native%20Test.png)
+![Native%20Test](./Media/Nativ%20Test.png)
 </details>
 <details>
   <summary>Native Check</summary>
 <br>
   
-![Native%20Check](./Media/Natie%20Check.png)
+![Native%20Check](./Media/Native%20Check.png)
 </details>
 <details>
   <summary>Memory Detector</summary>
