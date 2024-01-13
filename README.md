@@ -48,11 +48,11 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU)
   <summary>Native Check</summary>
 <br>
   
-![Native-Check](./Media/Native%20Check.png)
+![Native-Check](./Media/Native-Check.png)
 </details>
 <details>
   <summary>Memory Detector</summary>
 <br>
   
-![Memory-Detector](./Media/Memory%20Detector.png)
+![Memory-Detector](./Media/Memory-Detector.png)
 </details>
