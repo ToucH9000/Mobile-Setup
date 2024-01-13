@@ -48,7 +48,7 @@ Modules : [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases) + [Zy
   <summary>Native Check</summary>
 <br>
   
-![Native%20Check](./Media/Native%20Check.png)
+![Native%20Check](./Media/Natie%20Check.png)
 </details>
 <details>
   <summary>Memory Detector</summary>
