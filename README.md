@@ -42,7 +42,7 @@ Modules : [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases) + [Zy
   <summary>Native Test</summary>
 <br>
   
-![Native%20Test](./Media/Native%20Tes.png)
+![Native%20Test](./Media/Native%20Test.png)
 </details>
 <details>
   <summary>Native Check</summary>
