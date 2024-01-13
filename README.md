@@ -42,7 +42,7 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU)
   <summary>Native Test</summary>
 <br>
   
-![NativeTest](./Media/NativeTest.png)
+![Native-Test](./Media/Native-Test.png)
 </details>
 <details>
   <summary>Native Check</summary>
