@@ -20,7 +20,7 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU)
 
 # KernelSU Setup
 
-[Zygisk-NEXT](https://github.com/Dr-TSNG/ZygiskNext) + [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases) + [LSPosed (no log)](https://github.com/CMDQ8575/LSPosed)
+[Zygisk-NEXT](https://github.com/Dr-TSNG/ZygiskNext) : [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases) : [LSPosed (no log)](https://github.com/CMDQ8575/LSPosed)
 
 # Detections
 
