@@ -6,7 +6,7 @@ Variant : 6/128<br>
 Recovery : [OrangeFox](https://orangefox.download/device/vayu)<br>
 Firmware : [v14.0.3.0.TJUMIXM](https://xiaomifirmwareupdater.com/firmware/vayu/stable/V14.0.3.0.TJUMIXM/)<br>
 OS : [crDroid 10](https://sourceforge.net/projects/crdroid/files/vayu/10.x/)<br>
-Kernel : [RectiliaKSU_Chiteroman](https://t.me/playintegrityfix/148682)<br>
+Kernel : [PerryRiceKSU](https://t.me/PerryTheKernelCL)<br>
 Gapps : [NikGApps U - Core](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-U/)<br>
 
 Gpu Version : v@0530 - crD Default<br>
