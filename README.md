@@ -48,7 +48,7 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU)
   <summary>Native Check</summary>
 <br>
   
-![Native-Check](./Media/Native-Check.png)
+![Native-Check](https://github.com/ToucH9000/Mobile-Setup/blob/main/Media/Native-Check.png)
 </details>
 <details>
   <summary>Memory Detector</summary>
