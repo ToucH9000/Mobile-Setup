@@ -30,29 +30,29 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU)
   <summary>Hunter</summary>
 <br>
   
-![Hunter](https://github.com/ToucH9000/Mobile-Setup/blob/main/Media/Hunter.png)
+![Hunter](./Media/Hunter.png)
 </details>
 <details>
   <summary>Checker</summary>
 <br>
   
-![Checker](https://github.com/ToucH9000/Mobile-Setup/blob/main/Media/Checker.png)
+![Checker](./Media/Checker.png)
 </details>
 <details>
   <summary>Native Test</summary>
 <br>
   
-![Native-Test](https://github.com/ToucH9000/Mobile-Setup/blob/main/Media/Native-Test.png)
+![Native-Test](./Media/Native-Test.png)
 </details>
 <details>
   <summary>Native Check</summary>
 <br>
   
-![Native-Check](https://github.com/ToucH9000/Mobile-Setup/blob/main/Media/Native-Check.png)
+![Native-Check](./Media/Native-Check.png)
 </details>
 <details>
   <summary>Memory Detector</summary>
 <br>
   
-![Memory-Detector](https://github.com/ToucH9000/Mobile-Setup/blob/main/Media/Memory-Detector.png)
+![Memory-Detector](.Media/Memory-Detector.png)
 </details>
