@@ -35,6 +35,16 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU)
 <details>
   <summary>Checker</summary>
 <br>
+
+<details>
+  <summary>Securify</summary>
+<br>
+  
+![Securify](./Media/Securify.png)
+</details>
+<details>
+  <summary>Securify</summary>
+<br>
   
 ![Checker](./Media/Checker.png)
 </details>
