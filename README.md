@@ -33,16 +33,16 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU)
 ![Hunter](./Media/Hunter.png)
 </details>
 <details>
-  <summary>Checker</summary>
-<br>
-  
-![Checker](./Media/Checker.png)
-</details>
-<details>
   <summary>Securify</summary>
 <br>
   
 ![Securify](./Media/Securify.png)
+</details>
+<details>
+  <summary>Checker</summary>
+<br>
+  
+![Checker](./Media/Checker.png)
 </details>
 <details>
   <summary>Native Test</summary>
