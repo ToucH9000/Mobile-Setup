@@ -24,7 +24,7 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU)
 
 # Detections
 
-**Some detections are comman and can't be bypassed, this doesn't mean you can polute the modding environment by crying to a developer to fix detection**
+**Some detections are comman and can't be bypassed, this doesn't mean you can polute the modding environment by crying to a developer to [fix](https://github.com/ToucH9000/PIFvayuLOS/blob/main/Details.md) detection**
 
 <details>
   <summary>Hunter</summary>
