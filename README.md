@@ -20,6 +20,7 @@ Rooted With [Kitsune](https://github.com/HuskyDG/magisk-files)
 
 # Kitsune Setup
 
+Enabled : Zygisk + MagiskHide + Enforce SuList<br>
 [HIDErootLOS](https://github.com/ToucH9000/HIDErootLOS/tree/main?tab=readme-ov-file) + [LSPosed (No Log)](https://github.com/pumPCin/LSPosed)
 
 # Detections
