@@ -27,6 +27,12 @@ Rooted With [Kitsune](https://github.com/HuskyDG/magisk-files)
 **Some detections are comman and can't be bypassed, this doesn't mean you can polute the modding environment by crying to a developer to [fix](https://github.com/ToucH9000/PIFvayuLOS/blob/main/Details.md) detection**
 
 <details>
+  <summary>Momo</summary>
+<br>
+  
+![Momo](./Media/Momo.png)
+</details>
+<details>
   <summary>Hunter</summary>
 <br>
   
@@ -60,5 +66,5 @@ Rooted With [Kitsune](https://github.com/HuskyDG/magisk-files)
   <summary>Memory Detector</summary>
 <br>
   
-![Memory-Detector](./Media/Memory-Detector.jpg)
+![Memory-Detector](./Media/Memory-Detector.png)
 </details>
