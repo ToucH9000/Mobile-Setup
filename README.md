@@ -18,7 +18,7 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
 
 Rooted With [Kitsune](https://github.com/HuskyDG/magisk-files)
 
-# KernelSU Setup
+# Kitsune Setup
 
 [LSPosed (No Log)](https://github.com/pumPCin/LSPosed)
 
