@@ -3,7 +3,7 @@
 Device : [POCO X3 Pro](https://www.gsmarena.com/xiaomi_poco_x3_pro-10802.php)<br>
 CodeName : Vayu<br>
 Variant : 6/128<br>
-Recovery : [OrangeFox](https://orangefox.download/device/vayu)<br>
+Recovery : [TWRP](https://www.pling.com/p/1833617/)<br>
 Firmware : [v14.0.3.0.TJUMIXM](https://xiaomifirmwareupdater.com/firmware/vayu/stable/V14.0.3.0.TJUMIXM/)<br>
 OS : [Lineage](https://download.lineageos.org/devices/vayu/builds)<br>
 Kernel : Stock<br>
@@ -63,7 +63,7 @@ Rooted With [Kitsune](https://github.com/HuskyDG/magisk-files)
 ![Native-Check](./Media/Native-Check.png)
 </details>
 <details>
-  <summary>Memory Detector</summary>
+  <summary>Memory Detector v2.1</summary>
 <br>
   
 ![Memory-Detector](./Media/Memory-Detector.png)
