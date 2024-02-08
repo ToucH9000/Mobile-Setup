@@ -58,7 +58,7 @@ Enabled : Zygisk + MagiskHide + Enforce SuList<br>
 ![Native-Test](./Media/Native-Test.png)
 </details>
 <details>
-  <summary>Native Check</summary>
+  <summary>Native Check v4.8</summary>
 <br>
   
 ![Native-Check](./Media/Native-Check.png)
