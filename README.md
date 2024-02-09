@@ -28,6 +28,12 @@ Enabled : Zygisk + MagiskHide + Enforce SuList<br>
 **Some detections are comman and can't be bypassed, this doesn't mean you can polute the modding environment by crying to a developer to [fix](https://github.com/ToucH9000/PIFvayuLOS/blob/main/Details.md) detection**
 
 <details>
+  <summary>Spic</summary>
+<br>
+  
+![Spic](./Media/Spic.jpg)
+</details>
+<details>
   <summary>Ruru</summary>
 <br>
   
