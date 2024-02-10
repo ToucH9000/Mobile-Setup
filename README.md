@@ -5,7 +5,7 @@ CodeName : Vayu<br>
 Variant : 6/128<br>
 Recovery : [TWRP](https://www.pling.com/p/1833617/)<br>
 Firmware : [v14.0.3.0.TJUMIXM](https://xiaomifirmwareupdater.com/firmware/vayu/stable/V14.0.3.0.TJUMIXM/)<br>
-OS : [Lineage](https://download.lineageos.org/devices/vayu/builds)<br>
+OS : [Lineage 19.1](https://drive.google.com/file/d/18c-ezNr0LoxXy3CNQQxY62XLaoL5QYsI/view?usp=sharing)<br>
 Kernel : Stock<br>
 Gapps : [NikGApps T - Core](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/)<br>
 
