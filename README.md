@@ -3,7 +3,7 @@
 Device : [POCO X3 Pro](https://www.gsmarena.com/xiaomi_poco_x3_pro-10802.php)<br>
 CodeName : Vayu<br>
 Variant : 6/128<br>
-Recovery : [TWRP](https://www.pling.com/p/1833617/)<br>
+Recovery : [TWRP](https://eu.dl.twrp.me/vayu/twrp-3.7.0_12-0-vayu.img.html)<br>
 Firmware : [v14.0.3.0.TJUMIXM](https://xiaomifirmwareupdater.com/firmware/vayu/stable/V14.0.3.0.TJUMIXM/)<br>
 OS : [Lineage 19.1](https://drive.google.com/file/d/18c-ezNr0LoxXy3CNQQxY62XLaoL5QYsI/view?usp=sharing)<br>
 Kernel : Stock<br>
