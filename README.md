@@ -6,7 +6,7 @@ Variant : 6/128<br>
 Recovery : [TWRP](https://eu.dl.twrp.me/vayu/twrp-3.7.0_12-0-vayu.img.html)<br>
 Firmware : [v14.0.3.0.TJUMIXM](https://xiaomifirmwareupdater.com/firmware/vayu/stable/V14.0.3.0.TJUMIXM/)<br>
 OS : [Lineage 19.1](https://drive.google.com/file/d/18c-ezNr0LoxXy3CNQQxY62XLaoL5QYsI/view?usp=sharing)<br>
-Kernel : [Rectilia](https://github.com/ToucH9000/Mobile-Setup/blob/main/Rectilia-vayu-29122023-1052.zip)<br>
+Kernel : [Rectilia](https://github.com/ToucH9000/Mobile-Setup/raw/main/Rectilia-vayu-29122023-1052.zip)<br>
 Gapps : [NikGApps T - Core](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/)<br>
 
 Gpu Version : v@0502<br>
