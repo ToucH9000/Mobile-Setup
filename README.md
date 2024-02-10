@@ -7,7 +7,7 @@ Recovery : [TWRP](https://eu.dl.twrp.me/vayu/twrp-3.7.0_12-0-vayu.img.html)<br>
 Firmware : [v13.0.9.0.SJUMIXM](https://xiaomifirmwareupdater.com/firmware/vayu/stable/V13.0.9.0.SJUMIXM/)<br>
 OS : [Lineage 19.1](https://drive.google.com/file/d/18c-ezNr0LoxXy3CNQQxY62XLaoL5QYsI/view?usp=sharing)<br>
 Kernel : [Rectilia](https://github.com/ToucH9000/Mobile-Setup/raw/main/Rectilia-vayu-29122023-1052.zip)<br>
-Gapps : [NikGApps T - Core](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/)<br>
+Gapps : [NikGApps SL - Core](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-SL/)<br>
 
 Gpu Version : v@0502<br>
 Browser : [Kiwi](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)<br>
