@@ -78,10 +78,6 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU)
   <summary>Native Check v4.8</summary>
   
   <br>App is [crashing](https://t.me/reveny1/36?comment=490), waiting for dev to fix.
-  
-<br>
-  
-![Native-Check](./Media/Native-Check.png)
 </details>
 <details>
   <summary>Memory Detector v2.1</summary>
