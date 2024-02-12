@@ -76,6 +76,7 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU)
 </details>
 <details>
   <summary>Native Check v4.8</summary>
+  
   Crashing, waiting for dev to [fix](https://t.me/reveny1/36?comment=490)
 <br>
   
