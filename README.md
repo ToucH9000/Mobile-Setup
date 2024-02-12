@@ -77,7 +77,8 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU)
 <details>
   <summary>Native Check v4.8</summary>
   
-  Crashing, waiting for dev to [fix](https://t.me/reveny1/36?comment=490)
+  <br>App is [crashing](https://t.me/reveny1/36?comment=490), waiting for dev to fix.
+  
 <br>
   
 ![Native-Check](./Media/Native-Check.png)
