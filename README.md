@@ -29,7 +29,7 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU)
 <details>
   <summary>Spic</summary>
 <br>
-  hhh
+
 ![Spic](./Media/Spic.jpg)
 </details>
 <details>
