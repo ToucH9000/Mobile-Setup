@@ -6,7 +6,7 @@ Variant : 6/128<br>
 Recovery : [TWRP](https://eu.dl.twrp.me/vayu/twrp-3.7.0_12-0-vayu.img.html)<br>
 Firmware : [v13.0.9.0.SJUMIXM](https://xiaomifirmwareupdater.com/firmware/vayu/stable/V13.0.9.0.SJUMIXM/)<br>
 OS : [Lineage 19.1](https://drive.google.com/file/d/18c-ezNr0LoxXy3CNQQxY62XLaoL5QYsI/view?usp=sharing)<br>
-Kernel : Stock<br>
+Kernel : [perf](https://github.com/chiteroman/kernel_vayu_lineage)<br>
 Gapps : [NikGApps SL - Core](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-SL/)<br>
 
 Gpu Version : v@0502<br>
@@ -16,12 +16,11 @@ WebView : [By LineageOS](https://www.apkmirror.com/apk/lineageos/android-system-
 Camera : [MGC_8.1.101_A9_GV2b_snap](https://1-dontsharethislink.celsoazevedo.com/file/filesc/MGC_8.1.101_A9_GV2b_snap.apk)<br>
 Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specification/releases/tag/v61)<br>
 
-Rooted With [Kitsune](https://github.com/HuskyDG/magisk-files)
+Rooted With [KernelSU](https://github.com/tiann/KernelSU)
 
-# Kitsune Setup
+# KernelSU Setup
 
-Enabled : Zygisk + MagiskHide + Enforce SuList<br>
-[HIDErootLOS](https://github.com/ToucH9000/HIDErootLOS/tree/main?tab=readme-ov-file) + [LSPosed (No Log)](https://github.com/pumPCin/LSPosed)
+[Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext) + [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases) + [HIDErootLOS]() + [LSPosed (No Log)](https://github.com/pumPCin/LSPosed)
 
 # Detections
 
