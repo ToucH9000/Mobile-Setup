@@ -91,7 +91,7 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU)
 <br>
   
 ![Memory-Detector](./Media/Memory-Detector.png)
-
+<details>
 <summary>Testing This</summary>
 <br>
 </details>
