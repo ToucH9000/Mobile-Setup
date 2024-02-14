@@ -11,7 +11,6 @@ Gapps : [NikGApps SL - Core](https://sourceforge.net/projects/nikgapps/files/Rel
 
 Gpu Version : v@0502<br>
 Browser : [Kiwi](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)<br>
-WebView : [By LineageOS](https://www.apkmirror.com/apk/lineageos/android-system-webview-2/)<br>
 
 Camera : [MGC_8.1.101_A9_GV2b_snap](https://1-dontsharethislink.celsoazevedo.com/file/filesc/MGC_8.1.101_A9_GV2b_snap.apk)<br>
 Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specification/releases/tag/v61)<br>
