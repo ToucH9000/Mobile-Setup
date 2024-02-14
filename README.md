@@ -19,11 +19,11 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU)
 
 # KernelSU Setup
 
-[Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext) + [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases) + [HIDErootLOS](https://github.com/ToucH9000/Mobile-Setup/raw/main/HIDErootLOS.zip) + [LSPosed (No Log)](https://github.com/pumPCin/LSPosed)
+[Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext) + [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases) + [HIDErootLOS](https://github.com/ToucH9000/Mobile-Setup/raw/main/Files/HIDErootLOS.zip) + [LSPosed (No Log)](https://github.com/pumPCin/LSPosed)
 
 # Detections
 
-**Some detections are comman and can't be bypassed, this doesn't mean you can polute the modding environment by crying to a developer to [fix](https://github.com/ToucH9000/PIFvayuLOS/blob/main/Details.md) detection.** [Here's](https://github.com/ToucH9000/Mobile-Setup/blob/main/build.prop) the example of hiding LineageOS properties which is present in system partion (build.prop)
+**Some detections are comman and can't be bypassed, this doesn't mean you can polute the modding environment by crying to a developer to [fix](https://github.com/ToucH9000/PIFvayuLOS/blob/main/Details.md) detection.** [Here's](https://github.com/ToucH9000/Mobile-Setup/blob/main/Files/build.prop) the example of hiding LineageOS properties which is present in system partion (build.prop)
 
 <details>
   <summary>Spic</summary>
