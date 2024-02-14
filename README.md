@@ -95,6 +95,7 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU)
 <br>
   
 ![TB-Checker-1](./Media/TB-Checker-1.png)
+</details>
 <details>
 <summary>Abnormal Environment</summary>
 <br>
