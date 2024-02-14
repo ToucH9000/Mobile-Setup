@@ -23,7 +23,7 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU)
 
 # Detections
 
-**Some detections are comman and can't be bypassed, this doesn't mean you can polute the modding environment by crying to a developer to [fix](https://github.com/ToucH9000/PIFvayuLOS/blob/main/Details.md) detection**
+**Some detections are comman and can't be bypassed, this doesn't mean you can polute the modding environment by crying to a developer to [fix](https://github.com/ToucH9000/PIFvayuLOS/blob/main/Details.md) detection.** [Here's](https://github.com/ToucH9000/Mobile-Setup/blob/main/build.prop) the example of hiding LineageOS properties which is present in system partion (build.prop)
 
 <details>
   <summary>Spic</summary>
