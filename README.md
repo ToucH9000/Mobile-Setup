@@ -61,6 +61,25 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU)
   
 ![Checker](./Media/Checker.png)
 </details>
+
+<details>
+  <summary>TB Checker</summary>
+<br>
+<ol dir="auto">
+<details>
+<summary>Result Check Root</summary>
+<br>
+  
+![TB-Checker-1](./Media/TB-Checker-1.png)
+</details>
+<details>
+<summary>Abnormal Environment</summary>
+<br>
+
+![TB-Checker-2](./Media/TB-Checker-2.png)
+</details>
+</ol>
+
 <details>
   <summary>Native Test</summary>
 <br>
@@ -85,21 +104,3 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU)
   
 ![Memory-Detector](./Media/Memory-Detector.png)
 </details>
-
-<details>
-  <summary>TB Checker</summary>
-<br>
-<ol dir="auto">
-<details>
-<summary>Result Check Root</summary>
-<br>
-  
-![TB-Checker-1](./Media/TB-Checker-1.png)
-</details>
-<details>
-<summary>Abnormal Environment</summary>
-<br>
-
-![TB-Checker-2](./Media/TB-Checker-2.png)
-</details>
-</ol>
