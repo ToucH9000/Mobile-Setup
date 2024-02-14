@@ -67,7 +67,6 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU)
   
 ![Native-Test](./Media/Native-Test.png)
 </details>
-
 <details>
   <summary>TB Checker</summary>
 <br>
@@ -84,13 +83,44 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU)
 
 ![TB-Checker-2](./Media/TB-Checker-2.png)
 </details>
+<details>
+<summary>PM Command</summary>
+<br>
 
+![TB-Checker-3](./Media/TB-Checker-3.png)
+</details>
+<details>
+<summary>PM Conventional APIs</summary>
+<br>
 
+![TB-Checker-4](./Media/TB-Checker-4.png)
+</details>
+<details>
+<summary>PM Sundry APIs</summary>
+<br>
+
+![TB-Checker-5](./Media/TB-Checker-5.png)
+</details>
+<details>
+<summary>PM Intent Queries</summary>
+<br>
+
+![TB-Checker-6](./Media/TB-Checker-6.png)
+</details>
+<details>
+<summary>Libc File Detection</summary>
+<br>
+
+![TB-Checker-7](./Media/TB-Checker-7.png)
+</details>
+<details>
+<summary>Syscall File Detection</summary>
+<br>
+
+![TB-Checker-8](./Media/TB-Checker-8.png)
+</details>
 </details>
 </ol>
-
-
-
 <details>
   <summary>Key Attestation</summary>
 <br>
