@@ -88,6 +88,7 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU)
 
 <details>
   <summary>TB Checker</summary>
+<br>
 <ol dir="auto">
 <details>
 <summary>Result Check Root</summary>
