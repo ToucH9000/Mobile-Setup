@@ -76,8 +76,10 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU)
 <summary>Abnormal Environment</summary>
 <br>
 
-![TB-Checker-2](./Media/TB-Checker-2.png)<br><br><br>
+![TB-Checker-2](./Media/TB-Checker-2.png)
 </details>
+<br>
+
 </details>
 </ol>
 
