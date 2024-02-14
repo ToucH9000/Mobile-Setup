@@ -78,7 +78,6 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU)
 
 ![TB-Checker-2](./Media/TB-Checker-2.png)
 </details>
-</ol>
 
 <details>
   <summary>Native Test</summary>
@@ -104,3 +103,4 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU)
   
 ![Memory-Detector](./Media/Memory-Detector.png)
 </details>
+</ol>
