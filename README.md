@@ -85,3 +85,12 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU)
   
 ![Memory-Detector](./Media/Memory-Detector.png)
 </details>
+
+<details>
+  <summary>Perhaps working</summary>
+<br>
+  
+![Memory-Detector](./Media/Memory-Detector.png)
+<summary>Testing This</summary>
+<br>
+</details>
