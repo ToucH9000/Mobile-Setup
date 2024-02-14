@@ -77,10 +77,10 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU)
 <br>
 
 ![TB-Checker-2](./Media/TB-Checker-2.png)
+<br>
 </details>
 </details>
 </ol>
-<br>
 
 <details>
   <summary>Native Test</summary>
