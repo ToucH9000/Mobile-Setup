@@ -78,6 +78,7 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU)
 
 ![TB-Checker-2](./Media/TB-Checker-2.png)
 </details>
+</details>
 </ol>
 
 <details>
