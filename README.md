@@ -87,13 +87,17 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU)
 </details>
 
 <details>
-  <summary>Perhaps working</summary>
-<br>
+  <summary>TB Checker</summary>
 <ol dir="auto">
-  
-![Memory-Detector](./Media/Memory-Detector.png)
 <details>
-<summary>Testing This</summary>
+<summary>Result Check Root</summary>
 <br>
+  
+![TB-Checker-1](./Media/TB-Checker-1.png)
+<details>
+<summary>Abnormal Environment</summary>
+<br>
+
+![TB-Checker-2](./Media/TB-Checker-2.png)
 </details>
 </ol>
