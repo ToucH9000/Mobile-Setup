@@ -19,7 +19,7 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU)
 
 # KernelSU Setup
 
-[Zygisk Next](https://github.com/ToucH9000/Mobile-Setup/raw/main/Files/Zygisk-Next-v4-0.9.2.1-204-release.zip) + [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases) + [HIDErootLOS](https://github.com/ToucH9000/Mobile-Setup/raw/main/Files/HIDErootLOS.zip) + [LSPosed (No Log)](https://github.com/pumPCin/LSPosed/releases)
+[Zygisk Next](https://t.me/nullptr_dev/75) + [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases) + [HIDErootLOS](https://github.com/ToucH9000/Mobile-Setup/raw/main/Files/HIDErootLOS.zip) + [LSPosed (No Log)](https://github.com/pumPCin/LSPosed/releases)
 
 # Detections
 
