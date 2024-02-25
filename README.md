@@ -9,7 +9,7 @@ OS : [Lineage 19.1](https://drive.google.com/file/d/18c-ezNr0LoxXy3CNQQxY62XLaoL
 Kernel : [AnymoreKSU](https://xdaforums.com/t/anymoreproject-kernel-for-poco-x3-pro.4658138/)<br>
 Gapps : [NikGApps SL - Core](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-SL/)<br>
 
-Gpu Version : v@0502<br>
+Gpu Version : Stock (v@0502)<br>
 Browser : [Kiwi](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)<br>
 Ringtone : [Kudüs Fatihi Selahaddin Eyyubi](https://github.com/ToucH9000/Mobile-Setup/raw/main/Files/O_Kutlu_Zaferin.zip)
 
