@@ -16,8 +16,6 @@ Ringtone : [Kudüs Fatihi Selahaddin Eyyubi](https://github.com/ToucH9000/Mobile
 Camera : [MGC_8.1.101_A9_GV2b_snap](https://1-dontsharethislink.celsoazevedo.com/file/filesc/MGC_8.1.101_A9_GV2b_snap.apk)<br>
 Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specification/releases/tag/v61)<br>
 
-Rooted With [KernelSU](https://github.com/tiann/KernelSU)
-
 # KernelSU Setup
 
 [Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext/releases) + [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases) + [LineageOS Shelter](https://github.com/ToucH9000/Mobile-Setup/raw/main/Files/LineageOS-Shelter.zip) + [LSPosed (No Log)](https://github.com/pumPCin/LSPosed/releases)
@@ -35,37 +33,37 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU)
 <details>
   <summary>Ruru</summary>
 <br>
-  
+
 ![Ruru](./Media/Ruru.png)
 </details>
 <details>
   <summary>Momo</summary>
 <br>
-  
+
 ![Momo](./Media/Momo.png)
 </details>
 <details>
   <summary>Hunter</summary>
 <br>
-  
+
 ![Hunter](./Media/Hunter.png)
 </details>
 <details>
   <summary>Checker</summary>
 <br>
-  
+
 ![Checker](./Media/Checker.png)
 </details>
 <details>
   <summary>Securify</summary>
 <br>
-  
+
 ![Securify](./Media/Securify.png)
 </details>
 <details>
   <summary>Native Test</summary>
 <br>
-  
+
 ![Native-Test](./Media/Native-Test.png)
 </details>
 <details>
@@ -75,7 +73,7 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU)
 <details>
 <summary>Result Check Root</summary>
 <br>
-  
+
 ![TB-Checker-1](./Media/TB-Checker-1.png)
 </details>
 <details>
@@ -125,18 +123,18 @@ Rooted With [KernelSU](https://github.com/tiann/KernelSU)
 <details>
   <summary>Native Check</summary>
 <br>
-  
+
 ![Native-Check](./Media/Native-Check.png)
 </details>
 <details>
   <summary>Key Attestation</summary>
 <br>
-  
+
 ![Key-Attestation](./Media/Key-Attestation.png)
 </details>
 <details>
   <summary>Memory Detector</summary>
 <br>
-  
+
 ![Memory-Detector](./Media/Memory-Detector.png)
 </details>
