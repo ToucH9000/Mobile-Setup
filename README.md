@@ -20,8 +20,7 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
 # KernelSU Setup
 
 **KernelSU is best**
-<details>
-  <body>test</body>
+test<details>
   <summary>How?</summary>
   
 1. Module system based on [OverlayFS](https://en.m.wikipedia.org/wiki/OverlayFS)
