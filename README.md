@@ -19,7 +19,7 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
 
 # KernelSU Setup
 
-<p style="display-inline";>**KernelSU is best**
+<p style="display-inline";> **KernelSU is best**
 <details style="display:inline;">
   <summary>How?</summary>
   
