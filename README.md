@@ -20,7 +20,7 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
 # KernelSU Setup
 
 <details>
-  <summary>**Why KernelSU Is Best?**</summary>
+  <summary><b>Why KernelSU Is Best?</b></summary>
   
 1. Module system based on [OverlayFS](https://en.m.wikipedia.org/wiki/OverlayFS)
 2. Lock up the root power in a cage through [App Profile](https://kernelsu.org/guide/app-profile.html)
