@@ -27,7 +27,6 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
 2. Lock up the root power in a cage through [App Profile](https://kernelsu.org/guide/app-profile.html).
 </details>
 <br>
-<br>
 
 [Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext/releases) + [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases) + [HIDEpropLOS](https://github.com/ToucH9000/Mobile-Setup/raw/main/Files/HIDEpropLOS.zip) + [LSPosed (No Log)](https://github.com/amrelhossieny/LSPosed-MOD/releases)
 
