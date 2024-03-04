@@ -21,6 +21,7 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
 
 **KernelSU is best**
 <details>
+  <caption>Test</caption>
   <summary>How?</summary>
 <br>
   
