@@ -6,12 +6,12 @@ Variant : 6/128<br>
 Recovery : [TWRP](https://eu.dl.twrp.me/vayu/twrp-3.7.0_12-0-vayu.img.html)<br>
 Firmware : [v13.0.9.0.SJUMIXM](https://xiaomifirmwareupdater.com/firmware/vayu/stable/V13.0.9.0.SJUMIXM/)<br>
 OS : lineage-19.1-20231105 ([Mirror 1](https://lineage-archive.timschumi.net/build/14772) , [Mirror 2](https://drive.google.com/file/d/18c-ezNr0LoxXy3CNQQxY62XLaoL5QYsI/view?usp=sharing))<br>
-Kernel : [perf by chiteroman](https://github.com/ToucH9000/Mobile-Setup/raw/main/Files/VayuPERF_KSU_11583.zip)<br>
+Kernel : [RectiliaKSU](https://github.com/ToucH9000/Mobile-Setup/raw/main/Files/Rectilia_KSU_11591.zip)<br>
 Gapps : [NikGApps SL - Core](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-SL/)<br>
 
 Gpu Version : Stock (v@0502)<br>
 Browser : [Kiwi](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)<br>
-Dns : [Quad9](https://www.quad9.net/service/service-addresses-and-features)<br>
+Dns : [ControlD](https://controld.com/free-dns)<br>
 Ringtone : [Kudüs Fatihi Selahaddin Eyyubi](https://github.com/ToucH9000/Mobile-Setup/raw/main/Files/O_Kutlu_Zaferin.zip)
 
 Camera : [MGC_8.1.101_A9_GV2b_snap](https://1-dontsharethislink.celsoazevedo.com/file/filesc/MGC_8.1.101_A9_GV2b_snap.apk)<br>
