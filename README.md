@@ -60,16 +60,16 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
 ![Momo](./Media/Momo.png)
 </details>
 <details>
-  <summary>Termux</summary>
-<br>
-
-![Termux](./Media/Termux.png)
-</details>
-<details>
   <summary>Hunter</summary>
 <br>
 
 ![Hunter](./Media/Hunter.png)
+</details>
+<details>
+  <summary>Termux</summary>
+<br>
+
+![Termux](./Media/Termux.png)
 </details>
 <details>
   <summary>Checker</summary>
