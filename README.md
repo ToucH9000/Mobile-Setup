@@ -162,3 +162,9 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
 
 ![Memory-Detector](./Media/Memory-Detector.png)
 </details>
+<details>
+  <summary>Mock Location Detector</summary>
+<br>
+
+![Mock-Location-Detector](./Media/Mock-Location-Detector.png)
+</details>
