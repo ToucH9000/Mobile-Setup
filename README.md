@@ -33,9 +33,9 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
 
   1. [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases).
   2. [Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext/releases).
-  3. [Shadow Hosts](https://github.com/ToucH9000/Mobile-Setup/raw/main/Files/Shadow_Hosts.zip)
-  4. [HIDEpropLOS](https://github.com/ToucH9000/Mobile-Setup/raw/main/Files/HIDEpropLOS.zip).
-  5. [LSPosed MOD](https://github.com/amrelhossieny/LSPosed-MOD/releases).<br>
+  3. [HIDEpropLOS](https://github.com/ToucH9000/Mobile-Setup/raw/main/Files/HIDEpropLOS.zip).
+  4. [LSPosed MOD](https://github.com/amrelhossieny/LSPosed-MOD/releases).
+  5. [Shadow Hosts](https://github.com/ToucH9000/Mobile-Setup/raw/main/Files/Shadow_Hosts.zip).<br>
 </details>
 
 # Detections
