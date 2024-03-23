@@ -6,7 +6,7 @@ Variant : 6/128<br>
 Recovery : [TWRP](https://eu.dl.twrp.me/vayu/twrp-3.7.1_12-0-vayu.img.html)<br>
 Firmware : [v13.0.9.0.SJUMIXM](https://xiaomifirmwareupdater.com/firmware/vayu/stable/V13.0.9.0.SJUMIXM/)<br>
 OS : lineage-19.1-20231105 - [[Mirror 1](https://lineage-archive.timschumi.net/build/14772) , [Mirror 2](https://drive.google.com/file/d/18c-ezNr0LoxXy3CNQQxY62XLaoL5QYsI/view?usp=sharing)]<br>
-Kernel : [OpenelaPERF-KSU](https://github.com/ToucH9000/Mobile-Setup/raw/main/Files/OpenelaPERF_KSU_11667.zip) -  [Also Prefer [Perry](https://t.me/PerryTheKernelCL) , [Anymore](https://xdaforums.com/t/anymoreproject-kernel-for-poco-x3-pro.4658138/)]<br>
+Kernel : [OpenelaPERF-KSU](https://github.com/chiteroman/kernel_vayu) -  [Also Prefer [Perry](https://t.me/PerryTheKernelCL) , [Anymore](https://xdaforums.com/t/anymoreproject-kernel-for-poco-x3-pro.4658138/)]<br>
 Gapps : [NikGApps SL - Core](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-SL/)<br>
 
 Gpu Version : Stock (v@0502)<br>
