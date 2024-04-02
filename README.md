@@ -150,16 +150,16 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
 ![Native-Check](./Media/Native-Check.png)
 </details>
 <details>
-  <summary>RootBeer Fresh</summary>
-<br>
-
-![RootbBeer-Fresh](./Media/RootBeer-Fresh.png)
-</details>
-<details>
   <summary>Key Attestation</summary>
 <br>
 
 ![Key-Attestation](./Media/Key-Attestation.png)
+</details>
+<details>
+  <summary>RootBeer Fresh</summary>
+<br>
+
+![RootbBeer-Fresh](./Media/RootBeer-Fresh.png)
 </details>
 <details>
   <summary>Memory Detector</summary>
