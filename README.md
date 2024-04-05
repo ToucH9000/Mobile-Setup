@@ -6,7 +6,7 @@ Variant : 6/128<br>
 Recovery : [TWRP](https://eu.dl.twrp.me/vayu/twrp-3.7.1_12-0-vayu.img.html)<br>
 Firmware : [v13.0.9.0.SJUMIXM](https://xiaomifirmwareupdater.com/firmware/vayu/stable/V13.0.9.0.SJUMIXM/)<br>
 OS : lineage-19.1-20231105 - [[Mirror 1](https://lineage-archive.timschumi.net/build/14772) , [Mirror 2](https://drive.google.com/file/d/18c-ezNr0LoxXy3CNQQxY62XLaoL5QYsI/view?usp=sharing)]<br>
-Kernel : [StockKSU](https://github.com/chiteroman/kernel_vayu_stock) -  [Also Prefer [LineageKSU](https://github.com/chiteroman/kernel_vayu_lineage/actions) , [RectiliaKSU](https://github.com/chiteroman/kernel_vayu_rectilia/actions)]<br>
+Kernel : [RectiliaKSU](https://github.com/chiteroman/kernel_vayu_rectilia)<br>
 Gapps : [NikGApps SL - Core](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-SL/)<br>
 
 Gpu Version : Stock (v@0502)<br>
