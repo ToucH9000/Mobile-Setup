@@ -11,7 +11,7 @@ Gapps : [NikGApps SL - Core](https://sourceforge.net/projects/nikgapps/files/Rel
 
 Gpu Version : Stock (v@0502)<br>
 Browser : [Kiwi](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)<br>
-Dns : [ControlD](https://controld.com/free-dns)<br>
+Dns : [Quad9](https://www.quad9.net/service/service-addresses-and-features/)<br>
 Ringtone : [Kudüs Fatihi Selahaddin Eyyubi](https://github.com/ToucH9000/Mobile-Setup/raw/main/Files/O-Kutlu-Zaferin.zip)
 
 Camera : [MGC_8.1.101_A9_GV2b_snap](https://1-dontsharethislink.celsoazevedo.com/file/filesc/MGC_8.1.101_A9_GV2b_snap.apk)<br>
