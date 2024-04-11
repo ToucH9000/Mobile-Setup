@@ -29,7 +29,14 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
 </details>
 
 <details>
-  <summary><b>Modules</b></summary>
+  <summary>Settings</summary>
+  <br>
+  
+![Settings](./Media/Settings.png)
+</details>
+
+<details>
+  <summary>Modules</summary>
   <br>
 
   1. [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases).
