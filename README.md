@@ -6,7 +6,7 @@ Variant : 6/128<br>
 Recovery : [TWRP](https://eu.dl.twrp.me/vayu/twrp-3.7.1_12-0-vayu.img.html)<br>
 Firmware : [v13.0.9.0.SJUMIXM](https://xiaomifirmwareupdater.com/firmware/vayu/stable/V13.0.9.0.SJUMIXM/)<br>
 OS : lineage-19.1-20231105 - [[Mirror 1](https://lineage-archive.timschumi.net/build/14772) , [Mirror 2](https://drive.google.com/file/d/18c-ezNr0LoxXy3CNQQxY62XLaoL5QYsI/view?usp=sharing)]<br>
-Kernel : [NeoPERF](https://github.com/chiteroman/kernel_vayu/actions?query=branch%3Amain)<br>
+Kernel : [NeoPERF](https://github.com/chiteroman/kernel_vayu/actions)<br>
 LCM : Huaxing (dsi_j20s_42_02_0b)<br>
 Gapps : [NikGApps SL - Core](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-SL/)<br>
 
