@@ -1,4 +1,4 @@
-[Usage]
+#Usage
 
 1. Disable AdAway
 
@@ -12,12 +12,10 @@
 
 6. Check Detector UwU
 
-
-[Note]
+#Note
 
 If you updated some other module (shamiko , lsposed) and rebooted. After the reboot start from "Step 3"
 
-
-[Module Toggle Appearance]
+#Module Toggle Appearance
 
 When completed "Step 5", Toggle should be enabled and grayed out.
