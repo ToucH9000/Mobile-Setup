@@ -14,7 +14,9 @@
 
 # Module Toggle Appearance
 
-When completed "Step 5", Toggle should be enabled and grayed out.
+When completing "Step 5", Toggle should be enabled and grayed out.
+
+![Bind-Hosts](https://github.com/ToucH9000/Mobile-Setup/blob/main/Media/Bind-Hosts.png)
 
 # Note
 
