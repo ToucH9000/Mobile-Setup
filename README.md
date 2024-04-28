@@ -51,12 +51,6 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
 **Some detections are common and can't be bypassed, this doesn't mean you can polute the modding environment by crying to a developer to [fix](https://github.com/ToucH9000/PIFvayuLOS/blob/main/Details.md) detection.** [Here's](https://github.com/ToucH9000/Mobile-Setup/blob/main/Files/build.prop) the example of hiding LineageOS properties which is present in system partion (build.prop)
 
 <details>
-  <summary>Spic</summary>
-<br>
-
-![Spic](./Media/Spic.jpg)
-</details>
-<details>
   <summary>Ruru</summary>
 <br>
 
