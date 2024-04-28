@@ -80,12 +80,6 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
 ![Checker](./Media/Checker.png)
 </details>
 <details>
-  <summary>Securify</summary>
-<br>
-
-![Securify](./Media/Securify.png)
-</details>
-<details>
   <summary>Native Test</summary>
 <br>
 
