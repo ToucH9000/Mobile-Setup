@@ -6,7 +6,7 @@ Variant : 6/128<br>
 Recovery : [TWRP](https://eu.dl.twrp.me/vayu/twrp-3.7.1_12-0-vayu.img.html)<br>
 Firmware : [v13.0.9.0.SJUMIXM](https://xiaomifirmwareupdater.com/firmware/vayu/stable/V13.0.9.0.SJUMIXM/)<br>
 OS : lineage-19.1-20231105 - [[Mirror 1](https://lineage-archive.timschumi.net/build/14772) , [Mirror 2](https://drive.google.com/file/d/18c-ezNr0LoxXy3CNQQxY62XLaoL5QYsI/view?usp=sharing)]<br>
-Kernel : [NeoPERF](https://github.com/chiteroman/kernel_vayu/releases) (Default SusFS 1.1.0)<br>
+Kernel : [NeoSTOCK](https://github.com/chiteroman/kernel_vayu_stock)<br>
 [LCM](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw) : Huaxing (dsi_j20s_42_02_0b)<br>
 Gapps : [NikGApps SL - Core](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-SL/)<br>
 
@@ -43,8 +43,6 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
   2. [Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext/releases)
   3. [HIDEpropLOS](https://github.com/ToucH9000/Mobile-Setup/raw/main/Files/HIDEpropLOS.zip)
   4. [LSPosed MOD](https://github.com/pumPCin/LSPosed/actions)
-  5. [Bind Host](https://github.com/backslashxx/bindhosts) ([HowTO?](https://github.com/ToucH9000/Mobile-Setup/blob/main/Files/BindHOSTS.md))
-</details>
 
 # Detections
 
