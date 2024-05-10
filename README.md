@@ -34,7 +34,7 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
   <summary>Settings</summary>
   <br>
   
-![Settings](./Media/Settings.png)
+![Settings](./Media/Settings.jpg)
 </details>
 
 <details>
