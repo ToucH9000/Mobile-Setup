@@ -5,7 +5,7 @@ CodeName : Vayu<br>
 Variant : 6/128<br>
 Recovery : [TWRP](https://eu.dl.twrp.me/vayu/twrp-3.7.1_12-0-vayu.img.html)<br>
 Firmware : [v13.0.9.0.SJUMIXM](https://xiaomifirmwareupdater.com/firmware/vayu/stable/V13.0.9.0.SJUMIXM/)<br>
-OS : crDroid-7.39 - [[Mirror 1](https://sourceforge.net/projects/chiteroman/files/crDroid%20v7%20%28A11%29/crDroidAndroid-11.0-20240507-vayu-v7.39.zip/download) , [Mirror 2](https://drive.google.com/file/d/1fEUofBML5ht6Kaogp-RhlN74TewoWsya/view?usp=sharing)]<br>
+OS : crDroid-7.39 - [[Mirror 1](https://sourceforge.net/projects/chiteroman/files/vayu/crDroid%20v7%20%28A11%29/crDroidAndroid-11.0-20240507-vayu-v7.39.zip/download) , [Mirror 2](https://drive.google.com/file/d/1fEUofBML5ht6Kaogp-RhlN74TewoWsya/view?usp=sharing)]<br>
 Kernel : [AnymoreKSU](https://xdaforums.com/t/anymoreproject-kernel-for-poco-x3-pro.4658138/)<br>
 [LCM](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw) : Huaxing (dsi_j20s_42_02_0b)<br>
 Gapps : [NikGApps R - Core](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/)<br>
