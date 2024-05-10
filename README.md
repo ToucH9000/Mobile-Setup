@@ -69,12 +69,6 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
 ![Hunter](./Media/Hunter.jpg)
 </details>
 <details>
-  <summary>Checker</summary>
-<br>
-
-![Checker](./Media/Checker.jpg)
-</details>
-<details>
   <summary>Native Test</summary>
 <br>
 
