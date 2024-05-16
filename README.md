@@ -57,12 +57,6 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
 ![Ruru](./Media/Ruru.jpg)
 </details>
 <details>
-  <summary>Momo</summary>
-<br>
-
-![Momo](./Media/Momo.jpg)
-</details>
-<details>
   <summary>Hunter</summary>
 <br>
 
