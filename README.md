@@ -6,7 +6,7 @@ Variant : 6/128<br>
 Recovery : [TWRP](https://eu.dl.twrp.me/vayu/twrp-3.7.1_12-0-vayu.img.html)<br>
 Firmware : [v13.0.9.0.SJUMIXM](https://xiaomifirmwareupdater.com/firmware/vayu/stable/V13.0.9.0.SJUMIXM/)<br>
 OS : crDroid-7.39 - [[Mirror 1](https://sourceforge.net/projects/chiteroman/files/vayu/crDroid%20v7%20%28A11%29/crDroidAndroid-11.0-20240507-vayu-v7.39.zip/download) , [Mirror 2](https://drive.google.com/file/d/1fEUofBML5ht6Kaogp-RhlN74TewoWsya/view?usp=sharing)]<br>
-Kernel : [AnymoreKSU](https://xdaforums.com/t/anymoreproject-kernel-for-poco-x3-pro.4658138/)<br>
+Kernel : [NeoSTOCK](https://github.com/chiteroman/kernel_vayu/releases/tag/stock)<br>
 [LCM](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw) : Huaxing (dsi_j20s_42_02_0b)<br>
 Gapps : [NikGApps R - Core](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/)<br>
 
@@ -20,15 +20,7 @@ Ringtone : [Kudüs Fatihi Selahaddin Eyyubi](https://github.com/ToucH9000/Mobile
 Camera : [MGC_8.1.101_A9_GV2b_snap](https://1-dontsharethislink.celsoazevedo.com/file/filesc/MGC_8.1.101_A9_GV2b_snap.apk)<br>
 Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specification/releases/tag/v61)<br>
 
-# KernelSU Setup
-
-<details>
-  <summary><b>Why KernelSU Is Best?</b></summary>
-  <br>
-  
-1. Module system based on [OverlayFS](https://en.m.wikipedia.org/wiki/OverlayFS).
-2. Lock up the root power in a cage through [App Profile](https://kernelsu.org/guide/app-profile.html).<br>
-</details>
+# Kitsune Setup
 
 <details>
   <summary>Settings</summary>
@@ -41,9 +33,7 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
   <summary>Modules</summary>
   <br>
 
-  1. [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases)
-  2. [Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext/releases)
-  3. [LSPosed MOD](https://github.com/pumPCin/LSPosed/actions)
+  1. [LSPosed MOD](https://github.com/pumPCin/LSPosed/actions)
 </details>
 
 # Detections
