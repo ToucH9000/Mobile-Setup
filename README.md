@@ -1,4 +1,4 @@
-# Mobile Setup (WIP)
+# Mobile Setup
 
 Device : [POCO X3 Pro](https://www.gsmarena.com/xiaomi_poco_x3_pro-10802.php)<br>
 CodeName : Vayu<br>
@@ -33,7 +33,7 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
   <summary>Modules</summary>
   <br>
 
-  1. [LSPosed MOD](https://github.com/pumPCin/LSPosed/actions)
+  1. [LSPosed MOD](https://github.com/pumPCin/LSPosed_mod/actions)
 </details>
 
 # Detections
