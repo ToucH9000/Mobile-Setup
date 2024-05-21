@@ -26,7 +26,7 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
   <summary>Settings</summary>
   <br>
   
-![Settings](./Media/Settings.jpg)
+![Settings](./Media/Settings.png)
 </details>
 
 <details>
@@ -44,35 +44,35 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
   <summary>Ruru</summary>
 <br>
 
-![Ruru](./Media/Ruru.jpg)
+![Ruru](./Media/Ruru.png)
 </details>
 <details>
   <summary>Hunter</summary>
 <br>
 
-![Hunter](./Media/Hunter.jpg)
+![Hunter](./Media/Hunter.png)
 </details>
 <details>
   <summary>Native Test</summary>
 <br>
 
-![Native-Test](./Media/Native-Test.jpg)
+![Native-Test](./Media/Native-Test.png)
 </details>
 <details>
   <summary>Native Check</summary>
 <br>
 
-![Native-Check](./Media/Native-Check.jpg)
+![Native-Check](./Media/Native-Check.png)
 </details>
 <details>
   <summary>RootBeer Fresh</summary>
 <br>
 
-![RootbBeer-Fresh](./Media/RootBeer-Fresh.jpg)
+![RootbBeer-Fresh](./Media/RootBeer-Fresh.png)
 </details>
 <details>
   <summary>Memory Detector</summary>
 <br>
 
-![Memory-Detector](./Media/Memory-Detector.jpg)
+![Memory-Detector](./Media/Memory-Detector.png)
 </details>
