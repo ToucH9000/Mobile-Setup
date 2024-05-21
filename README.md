@@ -3,18 +3,18 @@
 Device : [POCO X3 Pro](https://www.gsmarena.com/xiaomi_poco_x3_pro-10802.php)<br>
 CodeName : Vayu<br>
 Variant : 6/128<br>
-Recovery : [TWRP](https://eu.dl.twrp.me/vayu/twrp-3.6.2_11-0-vayu.img.html)<br>
-Firmware : [v13.0.9.0.SJUMIXM](https://xiaomifirmwareupdater.com/firmware/vayu/stable/V13.0.9.0.SJUMIXM/)<br>
-OS : crDroid-7.39 - [[Mirror 1](https://sourceforge.net/projects/chiteroman/files/vayu/crDroid%20v7%20%28A11%29/crDroidAndroid-11.0-20240507-vayu-v7.39.zip/download) , [Mirror 2](https://drive.google.com/file/d/1fEUofBML5ht6Kaogp-RhlN74TewoWsya/view?usp=sharing)]<br>
+Recovery : [TWRP](https://eu.dl.twrp.me/vayu/twrp-3.7.1_12-0-vayu.img.html)<br>
+Firmware : [v14.0.3.0.TJUMIXM](https://xmfirmwareupdater.com/firmware/vayu/stable/V14.0.3.0.TJUMIXM/)<br>
+OS : [Unofficial LOS 21](https://sourceforge.net/projects/chiteroman/files/vayu/LineageOS%2021%20%28A14%29/)<br>
 Kernel : [NeoSTOCK](https://github.com/chiteroman/kernel_vayu/releases/tag/stock)<br>
 [LCM](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw) : Huaxing (dsi_j20s_42_02_0b)<br>
-Gapps : [NikGApps R - Core](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/)<br>
+Gapps : [NikGApps U - Core](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-U/)<br>
 
 Gpu Version : Stock (v@0502)<br>
 Refresh Rate : 60Hz<br>
 Browser : [Kiwi](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)<br>
 Dns : [Next](https://nextdns.io)<br>
-Color Profile : Standard [Display Mode : Off]<br>
+Colors : Saturated [Refresh Rate 60]<br>
 Ringtone : [Kudüs Fatihi Selahaddin Eyyubi](https://github.com/ToucH9000/Mobile-Setup/raw/main/Files/O-Kutlu-Zaferin.zip)
 
 Camera : [MGC_8.1.101_A9_GV2b_snap](https://1-dontsharethislink.celsoazevedo.com/file/filesc/MGC_8.1.101_A9_GV2b_snap.apk)<br>
