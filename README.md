@@ -6,7 +6,7 @@ Variant : 6/128<br>
 Recovery : [TWRP](https://eu.dl.twrp.me/vayu/twrp-3.7.1_12-0-vayu.img.html)<br>
 Firmware : [v14.0.3.0.TJUMIXM](https://xmfirmwareupdater.com/firmware/vayu/stable/V14.0.3.0.TJUMIXM/)<br>
 OS : [Unofficial LOS 21](https://sourceforge.net/projects/chiteroman/files/vayu/LineageOS%2021%20%28A14%29/)<br>
-Kernel : [NeoPERF](https://github.com/chiteroman/kernel_vayu/releases)<br>
+Kernel : [NeoSTOCK](https://github.com/chiteroman/kernel_vayu_stock/releases/latest)<br>
 [LCM](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw) : Huaxing (dsi_j20s_42_02_0b)<br>
 Gapps : [NikGApps U - Core](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-U/)<br>
 
