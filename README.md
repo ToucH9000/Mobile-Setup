@@ -6,7 +6,7 @@ Variant : 6/128<br>
 Recovery : [TWRP](https://eu.dl.twrp.me/vayu/twrp-3.7.1_12-0-vayu.img.html)<br>
 Firmware : [v14.0.3.0.TJUMIXM](https://xmfirmwareupdater.com/firmware/vayu/stable/V14.0.3.0.TJUMIXM/)<br>
 OS : [Unofficial LOS 21](https://sourceforge.net/projects/chiteroman/files/vayu/LineageOS%2021%20%28A14%29/)<br>
-Kernel : [NeoSTOCK](https://github.com/chiteroman/kernel_vayu_stock/releases/latest)<br>
+Kernel : [Anymore](https://xdaforums.com/t/anymoreproject-kernel-for-poco-x3-pro.4658138/) (non ksu)<br>
 [LCM](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw) : Huaxing (dsi_j20s_42_02_0b)<br>
 Gapps : [NikGApps U - Core](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-U/)<br>
 
@@ -20,7 +20,7 @@ Ringtone : [Kudüs Fatihi Selahaddin Eyyubi](https://github.com/ToucH9000/Mobile
 Camera : [MGC_8.1.101_A9_GV2b_snap](https://1-dontsharethislink.celsoazevedo.com/file/filesc/MGC_8.1.101_A9_GV2b_snap.apk)<br>
 Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specification/releases/tag/v61)<br>
 
-# KernelSU Setup
+# Alpha Setup
 
 <details>
   <summary>Settings</summary>
