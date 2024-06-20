@@ -3,7 +3,7 @@
 Device : [POCO X3 Pro](https://www.gsmarena.com/xiaomi_poco_x3_pro-10802.php)<br>
 CodeName : Vayu<br>
 Variant : 6/128<br>
-Recovery : [TWRP](https://eu.dl.twrp.me/vayu/twrp-3.6.2_11-0-vayu.img.html)<br>
+Recovery : [TWRP v3.6.2](https://eu.dl.twrp.me/vayu/twrp-3.6.2_11-0-vayu.img.html)<br>
 Firmware : [v12.5.9.0.RJUMIXM](https://xmfirmwareupdater.com/firmware/vayu/stable/V12.5.9.0.RJUMIXM/)<br>
 OS : [LineageOS 18.1](https://lineage-archive.timschumi.net/build/903) ([Gdrive](https://drive.google.com/file/d/1YFiPs7f1kBc1XUgK8zQP-3SnNEJAXzcr/view?usp=sharing))<br>
 Kernel : Stock-Lineage ([Kernel Name Changer](https://xdaforums.com/t/module-play-integrity-fix-safetynet-fix.4607985/post-89323635))<br>
