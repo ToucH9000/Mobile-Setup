@@ -44,7 +44,7 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
   <br>
 
   1. [Installer Plus](https://github.com/NextAlone/InstallerPlus/releases/latest) (Package Installer Mod)
-  2. [Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist/releases/latest) (Hide APK Traces + LSPosed Modules)
+  2. [Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist/releases/latest) (Hide APK Traces)
   3. [Enable Screenshot](https://github.com/Xposed-Modules-Repo/io.github.lsposed.disableflagsecure/releases/latest) (Kill Screenshot Restriction)
   4. [Pixelify Google Photos](https://github.com/BaltiApps/Pixelify-Google-Photos/releases/latest) (Unlimited Google Photos)
   5. [X Call Recording Settings](https://github.com/iptux/XCallRecording-xposed/releases) (Kill Region Restriction)
