@@ -40,7 +40,7 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
 </details>
 
 <details>
-  <summary>Modules</summary>
+  <summary>LSPosed Modules</summary>
   <br>
 
   1. [Installer Plus](https://github.com/NextAlone/InstallerPlus/releases/latest) (Package Installer Mod)
