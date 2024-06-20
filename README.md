@@ -39,6 +39,17 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
   4. [LSPosed MOD](https://github.com/pumPCin/LSPosed/actions)
 </details>
 
+<details>
+  <summary>Modules</summary>
+  <br>
+
+  1. [Installer Plus](https://github.com/NextAlone/InstallerPlus/releases/latest) (Package Installer Mod)
+  2. [Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist/releases/latest) (Hide APK Traces + LSPosed Modules)
+  3. [Enable Screenshot](https://github.com/Xposed-Modules-Repo/io.github.lsposed.disableflagsecure/releases/latest) (Kill Screenshot Restriction)
+  4. [Pixelify Google Photos](https://github.com/BaltiApps/Pixelify-Google-Photos/releases/latest) (Unlimited Google Photos)
+  5. [X Call Recording Settings](https://github.com/iptux/XCallRecording-xposed/releases) (Kill Region Restriction)
+</details>
+
 # Detections
 
 **Some detections are common and can't be bypassed, this doesn't mean you can polute the modding environment by crying to a developer to [fix](https://github.com/ToucH9000/PIFvayuLOS/blob/main/Details.md) detection.** [Here's](https://github.com/ToucH9000/Mobile-Setup/blob/main/Files/LOSbuild.prop) the example of hiding LineageOS properties which is present in system partion (build.prop)
