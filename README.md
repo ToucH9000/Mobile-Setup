@@ -6,7 +6,7 @@ Variant : 6/128<br>
 Recovery : [TWRP v3.6.2](https://eu.dl.twrp.me/vayu/twrp-3.6.2_11-0-vayu.img.html)<br>
 Firmware : [v12.5.9.0.RJUMIXM](https://xmfirmwareupdater.com/firmware/vayu/stable/V12.5.9.0.RJUMIXM/)<br>
 OS : [LineageOS 18.1](https://lineage-archive.timschumi.net/build/903) ([Gdrive](https://drive.google.com/file/d/1YFiPs7f1kBc1XUgK8zQP-3SnNEJAXzcr/view?usp=sharing))<br>
-Kernel : [AnymoreKSU](https://xdaforums.com/t/anymoreproject-kernel-for-poco-x3-pro.4658138/)<br>
+Kernel : [NeoSTOCK](https://github.com/ToucH9000/Mobile-Setup/raw/main/Files/NeoSTOCK.zip) ([Eva GCC v15](https://github.com/mvaisakh/gcc-build))<br>
 [LCM](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw) : Huaxing (dsi_j20s_42_02_0b)<br>
 Gapps : [NikGApps R - Core](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/)<br>
 
