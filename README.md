@@ -8,7 +8,7 @@ Firmware : [v13.0.9.0.SJUMIXM](https://xmfirmwareupdater.com/firmware/vayu/stabl
 OS : [LineageOS 19.1](https://lineage-archive.timschumi.net/build/14772) ([Gdrive](https://drive.google.com/file/d/18c-ezNr0LoxXy3CNQQxY62XLaoL5QYsI/view?usp=sharing))<br>
 Kernel : Stock ([Kernel Name Changer](https://github.com/ToucH9000/Mobile-Setup/raw/main/Files/Kernel_Name_Changer.zip))<br>
 [LCM](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw) : Huaxing (dsi_j20s_42_02_0b)<br>
-Gapps : [NikGApps R - Core](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/)<br>
+Gapps : [NikGApps SL - Core](https://sourceforge.net/projects/nikgapps/files/Releases/Android-12.1/)<br>
 
 Gpu Version : Stock (v@0502)<br>
 Refresh Rate : 60Hz<br>
