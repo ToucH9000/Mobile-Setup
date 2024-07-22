@@ -3,10 +3,10 @@
 Device : [POCO X3 Pro](https://www.gsmarena.com/xiaomi_poco_x3_pro-10802.php)<br>
 CodeName : Vayu<br>
 Variant : 6/128<br>
-Recovery : [TWRP v3.6.2](https://eu.dl.twrp.me/vayu/twrp-3.6.2_11-0-vayu.img.html)<br>
-Firmware : [v12.5.9.0.RJUMIXM](https://xmfirmwareupdater.com/firmware/vayu/stable/V12.5.9.0.RJUMIXM/)<br>
-OS : [LineageOS 18.1](https://lineage-archive.timschumi.net/build/903) ([Gdrive](https://drive.google.com/file/d/1YFiPs7f1kBc1XUgK8zQP-3SnNEJAXzcr/view?usp=sharing))<br>
-Kernel : [NeoSTOCK](https://github.com/ToucH9000/Mobile-Setup/raw/main/Files/NeoSTOCK.zip) ([Eva GCC v15](https://github.com/mvaisakh/gcc-build))<br>
+Recovery : [TWRP v3.7.1](https://eu.dl.twrp.me/vayu/twrp-3.7.1_12-0-vayu.img.html)<br>
+Firmware : [v13.0.9.0.SJUMIXM](https://xmfirmwareupdater.com/firmware/vayu/stable/V13.0.9.0.SJUMIXM/)<br>
+OS : [LineageOS 19.1](https://lineage-archive.timschumi.net/build/14772) ([Gdrive](https://drive.google.com/file/d/18c-ezNr0LoxXy3CNQQxY62XLaoL5QYsI/view?usp=sharing))<br>
+Kernel : Stock ([]())<br>
 [LCM](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw) : Huaxing (dsi_j20s_42_02_0b)<br>
 Gapps : [NikGApps R - Core](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/)<br>
 
@@ -14,13 +14,13 @@ Gpu Version : Stock (v@0502)<br>
 Refresh Rate : 60Hz<br>
 Browser : [Kiwi](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)<br>
 Dns : [ControlD](https://controld.com/free-dns)<br>
-Color Profile : None<br>
+Colors : Saturated<br>
 Ringtone : [Kudüs Fatihi Selahaddin Eyyubi](https://github.com/ToucH9000/Mobile-Setup/raw/main/Files/O-Kutlu-Zaferin.zip)
 
 Camera : [MGC_8.1.101_A9_GV2b_snap](https://1-dontsharethislink.celsoazevedo.com/file/filesc/MGC_8.1.101_A9_GV2b_snap.apk)<br>
 Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specification/releases/tag/v61)<br>
 
-# KernelSU Setup
+# ALPHA Setup
 
 <details>
   <summary>Settings</summary>
