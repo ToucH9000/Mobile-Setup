@@ -36,6 +36,7 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
   1. [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases/latest)
   2. [Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext/releases/latest)
   3. [LSPosed MOD](https://github.com/pumPCin/LSPosed/actions)
+  4. [Tricky Store](https://github.com/5ec1cff/TrickyStore/actions?query=branch%3Amaster)
 </details>
 
 <details>
@@ -76,12 +77,6 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
 <br>
 
 ![Native-Check](./Media/Native-Check.png)
-</details>
-<details>
-  <summary>RootBeer Fresh</summary>
-<br>
-
-![RootbBeer-Fresh](./Media/RootBeer-Fresh.png)
 </details>
 <details>
   <summary>Memory Detector</summary>
