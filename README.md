@@ -36,7 +36,7 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
   1. [Shamiko](https://t.me/LSPosed/278)
   2. [Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext/releases/latest)
   3. [HIDEpropLOS](https://github.com/ToucH9000/Mobile-Setup/raw/main/Files/HIDEpropLOS.zip)
-  4. [LSPosed MOD](https://github.com/pumPCin/LSPosed/actions)
+  4. [LSPosed MOD](https://github.com/pumPCin/LSPosed_mod/actions)
   5. [Tricky Store](https://github.com/5ec1cff/TrickyStore/actions?query=branch%3Amaster) ([target.txt](https://github.com/ToucH9000/Mobile-Setup/blob/main/Files/target.txt))
 </details>
 
