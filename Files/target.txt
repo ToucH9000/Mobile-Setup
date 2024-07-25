@@ -7,3 +7,4 @@ com.google.android.gms!
 io.github.vvb2060.mahoshojo!
 io.github.vvb2060.keyattestation!
 io.github.huskydg.memorydetector!
+com.dexprotector.detector.envchecks!
