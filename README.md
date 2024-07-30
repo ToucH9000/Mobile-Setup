@@ -6,7 +6,7 @@ Variant : 6/128<br>
 Recovery : [TWRP v3.7.1](https://eu.dl.twrp.me/vayu/twrp-3.7.1_12-0-vayu.img.html)<br>
 Firmware : [v13.0.9.0.SJUMIXM](https://xmfirmwareupdater.com/firmware/vayu/stable/V13.0.9.0.SJUMIXM/)<br>
 OS : [LineageOS 19.1](https://lineage-archive.timschumi.net/build/14772) ([Gdrive](https://drive.google.com/file/d/18c-ezNr0LoxXy3CNQQxY62XLaoL5QYsI/view?usp=sharing))<br>
-Kernel : [Anymore-270724](https://xdaforums.com/t/anymoreproject-kernel-for-poco-x3-pro.4658138/)<br>
+Kernel : [PERF by Chiteroman](https://github.com/chiteroman/android_kernel_xiaomi_vayu/releases/download/latest/kernel.zip)<br>
 [LCM](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw) : Huaxing (dsi_j20s_42_02_0b)<br>
 Gapps : [NikGApps SL - Core](https://sourceforge.net/projects/nikgapps/files/Releases/Android-12.1/)<br>
 
