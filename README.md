@@ -1,4 +1,4 @@
-# Mobile Setup (WIP)
+# Mobile Setup
 
 Device : [POCO X3 Pro](https://www.gsmarena.com/xiaomi_poco_x3_pro-10802.php)<br>
 CodeName : Vayu<br>
@@ -20,7 +20,7 @@ Ringtone : [Kudüs Fatihi Selahaddin Eyyubi](https://github.com/ToucH9000/Mobile
 Camera : [MGC_8.1.101_A9_GV2b_snap](https://1-dontsharethislink.celsoazevedo.com/file/filesc/MGC_8.1.101_A9_GV2b_snap.apk)<br>
 Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specification/releases/tag/v61)<br>
 
-# Alpha Setup
+# KernelSU Setup
 
 <details>
   <summary>Settings</summary>
