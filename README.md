@@ -6,7 +6,7 @@ Variant : 6/128<br>
 Recovery : [TWRP v3.7.1](https://eu.dl.twrp.me/vayu/twrp-3.7.1_12-0-vayu.img.html)<br>
 Firmware : [v13.0.9.0.SJUMIXM](https://xmfirmwareupdater.com/firmware/vayu/stable/V13.0.9.0.SJUMIXM/)<br>
 OS : [LineageOS 19.1](https://lineage-archive.timschumi.net/build/14772) ([Gdrive](https://drive.google.com/file/d/18c-ezNr0LoxXy3CNQQxY62XLaoL5QYsI/view?usp=sharing))<br>
-Kernel : [PERF by Chiteroman](https://github.com/ToucH9000/Mobile-Setup/raw/main/Files/PERF-susfs-AOSP.zip)<br>
+Kernel : [PERF by Chiteroman](https://github.com/ToucH9000/Mobile-Setup/raw/main/Files/PERF-susfs-STOCK.zip)<br>
 [LCM](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw) : Huaxing (dsi_j20s_42_02_0b)<br>
 Gapps : [NikGApps SL - Core](https://sourceforge.net/projects/nikgapps/files/Releases/Android-12.1/)<br>
 
@@ -96,7 +96,7 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
   <summary>Key Attestation</summary>
 <br>
 
-![Memory-Detector](./Media/Key-Attestation.png)
+![Key-Attestation](./Media/Key-Attestation.png)
 </details>
 <details>
   <summary>Memory Detector</summary>
