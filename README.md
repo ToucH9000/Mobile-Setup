@@ -36,7 +36,7 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
   2. [SusFS4ksu](https://gitlab.com/simonpunk/susfs4ksu/-/releases) ~ [content](https://github.com/ToucH9000/Mobile-Setup/tree/main/Files/susfs4ksu)
   3. [Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext/releases/latest)
   4. [HIDEpropLOS](https://github.com/ToucH9000/Mobile-Setup/raw/main/Files/HIDEpropLOS.zip)
-  5. [LSPosed MOD](https://github.com/ToucH9000/Mobile-Setup/raw/main/Files/LSPosed-v1.9.3-7532-zygisk-release.zip) by [pumPCin](https://github.com/pumPCin)
+  5. [LSPosed npm](https://t.me/rormzhstjxm/72?single)
   6. [Tricky Store](https://github.com/5ec1cff/TrickyStore/actions?query=branch%3Amaster) ~ [target](https://github.com/ToucH9000/Mobile-Setup/blob/main/Files/tricky_store/target.txt)
 </details>
 
