@@ -1,7 +1,7 @@
 # Using "!" because my TEE is broken
 
 com.zhenxi.hunter!
-icu.nullptr.nativetest
+icu.nullptr.nativetest!
 com.reveny.nativecheck!
 com.google.android.gms!
 io.github.vvb2060.mahoshojo!
