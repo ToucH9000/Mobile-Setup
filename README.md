@@ -46,8 +46,8 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
   <br>
 
   1. [Installer Plus](https://github.com/NextAlone/InstallerPlus/releases/latest)
-  2. [Settings Firewall](https://github.com/canyie/SettingsFirewall/releases/latest)
-  3. [Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist/releases/latest)
+  2. [Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist/releases/latest)
+  3. [Settings Firewall](https://github.com/canyie/SettingsFirewall/releases/latest)
   4. [Enable Screenshot](https://github.com/Xposed-Modules-Repo/io.github.lsposed.disableflagsecure/releases/latest)
   5. [Pixelify Google Photos](https://github.com/BaltiApps/Pixelify-Google-Photos/releases/latest)
   6. [X Call Recording Settings](https://github.com/iptux/XCallRecording-xposed/releases/latest)
