@@ -12,7 +12,7 @@ Gapps : [NikGApps SL - Core](https://sourceforge.net/projects/nikgapps/files/Rel
 
 Gpu Version : Stock (v@0502)<br>
 Refresh Rate : 60Hz<br>
-DNS : [dns.sb](https://dns.sb/) (Anycast)<br>
+DNS : [dns.sb](https://dns.sb/)<br>
 Browser : [Kiwi](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)<br>
 Colors : Saturated<br>
 Ringtone : [Kudüs Fatihi Selahaddin Eyyubi](https://github.com/ToucH9000/Mobile-Setup/raw/main/Files/O-Kutlu-Zaferin.zip)
