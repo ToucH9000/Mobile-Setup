@@ -1,9 +1,0 @@
-# Using "!" because my TEE is broken
-
-com.zhenxi.hunter!
-icu.nullptr.nativetest!
-com.reveny.nativecheck!
-com.google.android.gms!
-io.github.vvb2060.mahoshojo!
-io.github.vvb2060.keyattestation!
-com.dexprotector.detector.envchecks!
