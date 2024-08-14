@@ -38,7 +38,7 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
   3. [Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext/releases/latest)
   4. HIDEpropLOS (Private Build)
   5. [LSPosed npm](https://t.me/rormzhstjxm/72?single)
-  6. [Tricky Store](https://github.com/chiteroman/TrickyStore/actions?query=branch%3Amaster) ~ [content](https://github.com/ToucH9000/Mobile-Setup/tree/main/Files/tricky_store)
+  6. [Tricky Store](https://github.com/chiteroman/TrickyStore/actions?query=branch%3Amaster)
 </details>
 
 <details>
@@ -92,12 +92,6 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
 <br>
 
 ![Native-Check](./Media/Native-Check.png)
-</details>
-<details>
-  <summary>Key Attestation</summary>
-<br>
-
-![Key-Attestation](./Media/Key-Attestation.png)
 </details>
 <details>
   <summary>Memory Detector</summary>
