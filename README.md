@@ -38,7 +38,7 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
   3. [Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext/releases/latest)
   4. HIDEpropLOS (Private Build)
   5. [LSPosed npm-open](https://github.com/testrvx/LSPosed2/actions?query=branch%3Anpm-open)
-  6. [Tricky Store](https://nightly.link/chiteroman/TrickyStore/actions/runs/10344236573/Tricky-Store-v1.0.3-88-30bf06a-release.zip)
+  6. [Tricky Store](https://nightly.link/chiteroman/TrickyStore/actions/runs/10344236573/Tricky-Store-v1.0.3-88-30bf06a-release.zip) ~ [Hint](https://github.com/search?q=repo%3Achiteroman%2FTrickyStore%20%2F(%3F-i)constexpr%20auto%20kDefaultSpoofConfig%2F&type=code)
 </details>
 
 <details>
