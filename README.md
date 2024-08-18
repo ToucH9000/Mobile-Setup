@@ -64,16 +64,16 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
 ![Ruru](./Media/Ruru.png)
 </details>
 <details>
-  <summary>Holmes</summary>
-<br>
-
-![Holmes](./Media/Holmes.png)
-</details>
-<details>
   <summary>Hunter</summary>
 <br>
 
 ![Hunter](./Media/Hunter.png)
+</details>
+<details>
+  <summary>Holmes</summary>
+<br>
+
+![Holmes](./Media/Holmes.png)
 </details>
 <details>
   <summary>EnvChecks</summary>
