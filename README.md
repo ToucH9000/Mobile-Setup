@@ -93,8 +93,3 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
 
 ![Native-Check](./Media/Native-Check.png)
 </details>
-<details>
-  <summary>Memory Detector</summary>
-<br>
-![Memory-Detector](./Media/Memory-Detector.png)
-</details>
