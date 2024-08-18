@@ -76,12 +76,6 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
 ![EnvChecks](./Media/EnvChecks.png)
 </details>
 <details>
-  <summary>TB Checker</summary>
-<br>
-
-![TB-Checker](./Media/TB-Checker.png)
-</details>
-<details>
   <summary>Native Test</summary>
 <br>
 
