@@ -15,5 +15,3 @@ ${SUSFS_BIN} add_sus_path /vendor/bin/install-recovery.sh
 ${SUSFS_BIN} add_sus_path /system/etc/hosts
 
 ${SUSFS_BIN} set_uname 'default' 'default' '4.14.180-perf-g950783ac4623' 'default' 'default'
-
-${SUSFS_BIN} add_sus_path /debug_ramdisk/shamiko
