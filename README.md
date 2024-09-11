@@ -36,7 +36,7 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
   1. [Shamiko](https://t.me/LSPosed/278)
   2. [SusFS4ksu](https://gitlab.com/simonpunk/susfs4ksu/-/releases) ~ [content](https://github.com/ToucH9000/Mobile-Setup/tree/main/Files/susfs4ksu)
   3. [Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext/releases/latest)
-  4. [LSPosed npm](https://t.me/rormzhstjxm/78?single)
+  4. [LSPosed npm](https://t.me/rormzhstjxm)
   5. [Painkiller Next](https://github.com/ToucH9000/Mobile-Setup/raw/main/Files/Painkiller-Next.zip)
   6. [Tricky Store](https://github.com/5ec1cff/TrickyStore/releases/tag/1.1.1)
 </details>
