@@ -38,7 +38,7 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
   3. [Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext/releases/tag/v1.2.0-Preview2)
   4. [LSPosed npm](https://t.me/rormzhstjxm)
   5. [Painkiller Next](https://github.com/ToucH9000/Mobile-Setup/raw/main/Files/Painkiller-Next.zip)
-  6. [Tricky Store](https://github.com/5ec1cff/TrickyStore/releases/tag/1.1.1)
+  6. [Tricky Store](https://github.com/5ec1cff/TrickyStore/releases/tag/1.1.3)
 </details>
 
 <details>
