@@ -5,7 +5,7 @@ CodeName : Vayu<br>
 Variant : 6/128<br>
 Recovery : [TWRP v3.7.1](https://eu.dl.twrp.me/vayu/twrp-3.7.1_12-0-vayu.img.html)<br>
 Firmware : v13.0.5.0.SJUIDXM (built-in rom)<br>
-OS : [MIUI Indonesia 13.0.5](https://t.me/PocoX3ProIndonesiaUpdate/3712)<br>
+OS : [MIUI Indonesia 13.0.5](https://t.me/PocoX3ProIndonesiaUpdate/3712) [[SystemRW](https://github.com/ToucH9000/Mobile-Setup/raw/refs/heads/main/Files/SystemRW_v1.36_Flash-In-Recovery.zip)]<br>
 Kernel : [NeoPRRF-SusFS](https://github.com/ToucH9000/Mobile-Setup/raw/refs/heads/main/Files/NeoPERF-SusFS.zip)<br>
 [LCM](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw) : Huaxing (dsi_j20s_42_02_0b)<br>
 
