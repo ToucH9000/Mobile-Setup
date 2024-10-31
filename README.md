@@ -1,4 +1,4 @@
-# Mobile Setup
+# Mobile Setup (WIP)
 
 Device : [POCO X3 Pro](https://www.gsmarena.com/xiaomi_poco_x3_pro-10802.php)<br>
 CodeName : Vayu<br>
@@ -33,28 +33,24 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
   <br>
 
   1. [Shamiko](https://t.me/LSPosed/278)
-  2. [SusFS4ksu](https://github.com/ToucH9000/Mobile-Setup/raw/refs/heads/main/Files/SusFS4ksu.zip) ~ [content](https://github.com/ToucH9000/Mobile-Setup/tree/main/Files/susfs4ksu)
+  2. [SusFS Next](https://github.com/ToucH9000/Mobile-Setup/raw/refs/heads/main/Files/SusFS-v1.4.1.zip)
   3. [Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext/releases/tag/v1.2.0-Preview2)
   4. [LSPosed npm](https://t.me/rormzhstjxm)
-  5. [Painkiller Next](https://github.com/ToucH9000/Mobile-Setup/raw/main/Files/Painkiller-Next.zip)
-  6. [Tricky Store](https://github.com/5ec1cff/TrickyStore/releases/tag/1.1.3)
+  5. [Tricky Store](https://github.com/5ec1cff/TrickyStore/releases/tag/1.1.3)
 </details>
 
 <details>
   <summary>LSPosed Modules</summary>
   <br>
-
-  1. [Installer Plus](https://github.com/NextAlone/InstallerPlus/releases/latest)
-  2. [Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist/releases/latest)
-  3. [Settings Firewall](https://github.com/canyie/SettingsFirewall/releases/latest)
-  4. [Enable Screenshot](https://github.com/Xposed-Modules-Repo/io.github.lsposed.disableflagsecure/releases/latest)
-  5. [Pixelify Google Photos](https://github.com/BaltiApps/Pixelify-Google-Photos/releases/latest)
-  6. [X Call Recording Settings](https://github.com/iptux/XCallRecording-xposed/releases/latest)
+  
+  1. [Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist/releases/latest)
+  2. [Settings Firewall](https://github.com/canyie/SettingsFirewall/releases/latest)
+  3. [Enable Screenshot](https://github.com/Xposed-Modules-Repo/io.github.lsposed.disableflagsecure/releases/latest)
 </details>
 
 # Detections
 
-**Some detections are common and can't be bypassed, this doesn't mean you can polute the modding environment by crying to a developer to [fix](https://github.com/ToucH9000/PIFvayuLOS/blob/main/Details.md) detection.** [Here's](https://github.com/ToucH9000/Mobile-Setup/blob/main/Files/LOSbuild.prop) the example of hiding LineageOS properties which is present in system partion (build.prop)
+**Some detections are common and can't be bypassed, this doesn't mean you can polute the modding environment by crying to a developer to [fix](https://github.com/ToucH9000/PIFvayuLOS/blob/main/Details.md) detection.**
 
 <details>
   <summary>Ruru</summary>
