@@ -11,7 +11,7 @@ Kernel : [NeoPRRF-SusFS](https://github.com/ToucH9000/Mobile-Setup/raw/refs/head
 
 Gpu Version : Stock (v@0502)<br>
 Refresh Rate : 60Hz<br>
-DNS : [ffmuc](https://ffmuc.net/wiki/doku.php?id=knb:dohdot_en)<br>
+DNS : [dns.sb](https://dns.sb/)<br>
 Browser : [IceRaven](https://github.com/fork-maintainers/iceraven-browser)<br>
 Colors : Saturated<br>
 Ringtone : [Kudüs Fatihi Selahaddin Eyyubi](https://github.com/ToucH9000/Mobile-Setup/raw/main/Files/O-Kutlu-Zaferin.zip)
