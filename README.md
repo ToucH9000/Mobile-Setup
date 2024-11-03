@@ -33,7 +33,7 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
   <br>
 
   1. [Shamiko](https://t.me/LSPosed/278)
-  2. [SusFS Next](https://github.com/ToucH9000/Mobile-Setup/raw/refs/heads/main/Files/SusFS-v1.4.1.zip)
+  2. [SusFS Next](https://github.com/ToucH9000/Mobile-Setup/raw/refs/heads/main/Files/SusFS-Next-v1.4.1.zip)
   3. [Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext/releases/tag/v1.2.0-Preview2)
   4. [LSPosed npm](https://t.me/rormzhstjxm)
   5. [Tricky Store](https://github.com/5ec1cff/TrickyStore/releases/tag/1.2.0)
