@@ -39,15 +39,6 @@ Config : [ForkBSGx3P-NFv61](https://github.com/BEASTover9000/Mobile-Specificatio
   5. [Tricky Store](https://github.com/5ec1cff/TrickyStore/releases/tag/1.2.0)
 </details>
 
-<details>
-  <summary>LSPosed Modules</summary>
-  <br>
-  
-  1. [Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist/releases/latest)
-  2. [Settings Firewall](https://github.com/canyie/SettingsFirewall/releases/latest)
-  3. [Enable Screenshot](https://github.com/Xposed-Modules-Repo/io.github.lsposed.disableflagsecure/releases/latest)
-</details>
-
 # Detections
 
 **Some detections are common and can't be bypassed, this doesn't mean you can polute the modding environment by crying to a developer to [fix](https://github.com/ToucH9000/PIFvayuLOS/blob/main/Details.md) detection.**
