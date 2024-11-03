@@ -4,7 +4,7 @@ Device : [POCO X3 Pro](https://www.gsmarena.com/xiaomi_poco_x3_pro-10802.php)<br
 CodeName : Vayu<br>
 Variant : 6/128<br>
 Recovery : [TWRP v3.7.1](https://eu.dl.twrp.me/vayu/twrp-3.7.1_12-0-vayu.img.html)<br>
-Firmware : [v13.0.9.0.SJUMIXM](http://xmfirmwareupdater.com/firmware/vayu/stable/V13.0.9.0.SJUMIXM/) (built-in rom)<br>
+Firmware : [v13.0.9.0.SJUMIXM](http://xmfirmwareupdater.com/firmware/vayu/stable/V13.0.9.0.SJUMIXM/)<br>
 OS : [LineageOS 19.1](https://lineage-archive.timschumi.net/build/14772)<br>
 Kernel : [NeoPRRF-SusFS](https://github.com/ToucH9000/Mobile-Setup/raw/refs/heads/main/Files/NeoPERF-SusFS.zip)<br>
 [LCM](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw) : Huaxing (dsi_j20s_42_02_0b)<br>
