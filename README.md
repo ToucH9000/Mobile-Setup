@@ -1,4 +1,4 @@
-# Mobile Setup
+# Mobile Setup (WIP)
 
 Device : [POCO X3 Pro](https://www.gsmarena.com/xiaomi_poco_x3_pro-10802.php)<br>
 CodeName : Vayu<br>
