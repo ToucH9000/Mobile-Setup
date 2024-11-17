@@ -23,3 +23,5 @@ resetprop -n ro.boot.vbmeta.device_state locked
 resetprop -n ro.boot.vbmeta.digest ac088f34ae6c95568a9e95ac63821dee4f334cf94537409dd360556d781776de
 resetprop -n ro.boot.veritymode enforcing
 resetprop -n ro.boot.veritymode.managed yes
+resetprop -n ro.boot.mode normal
+resetprop -n ro.bootmode normal
